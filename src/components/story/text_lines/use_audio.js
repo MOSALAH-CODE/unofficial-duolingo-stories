@@ -71,6 +71,6 @@ export default function useAudio(element, progress) {
     ref,
     audio.url.startsWith("blob")
       ? audio.url
-      : "https://duostori.uber.space/" + audio.url,
+      : "" + audio.url,
   ];
 }

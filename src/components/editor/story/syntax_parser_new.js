@@ -4,10 +4,14 @@ import {
 } from "../../story/text_lines/audio_edit";
 
 function generateHintMap(text, translation) {
+  console.log("******generateHintMap->text,translation*******");
+  console.log(text, translation);
+  console.log("*****************");
   if (!text) text = "";
   text = text.replace(/\|/g, "​");
   let text_list = splitTextTokens(text);
   text = text.replace(/~/g, " "); //
+  console.log(text);
   if (!translation) translation = "";
   translation = translation.replace(/\|/g, "​");
   let trans_list = splitTextTokens2(translation);
@@ -32,6 +36,7 @@ function generateHintMap(text, translation) {
 }
 
 function hintsShift(content, pos) {
+  console.log(content, pos);
   for (let i in content.hintMap) {
     if (content.hintMap[i].rangeFrom > pos) content.hintMap[i].rangeFrom -= 1;
     if (content.hintMap[i].rangeTo >= pos) content.hintMap[i].rangeTo -= 1;
@@ -414,9 +419,11 @@ function get_avatar(id, avatar_names, avatar_overwrites) {
 function getText(line_iter, allow_speaker, allow_trans, allow_audio) {
   let speaker = {};
   let line = line_iter.get();
+  console.log(line);
   if (line.startsWith(">") || (allow_speaker && line.match(/\w*:/))) {
     speaker.text = line;
     line = line_iter.advance(1);
+    console.log(line);
     if (line.startsWith("~") && allow_trans) {
       speaker.trans = line;
       line = line_iter.advance();
@@ -510,11 +517,16 @@ function pointToPhraseButtons(line) {
 }
 
 function processBlockHeader(line_iter, story, lang, story_languages) {
+  console.log("******processBlockHeader*******");
+  console.log(story);
+  console.log("*****************");
   let start_no = line_iter.get_lineno(-1);
   let start_no1 = line_iter.get_lineno();
+  console.log(start_no, start_no1);
   let data = getText(line_iter, false, true, true);
   let data_text = speaker_text_trans(data, story.meta);
-
+console.log(data);
+console.log(line_iter);
   data_text.line.content.lang_hints = story_languages.fromLanguage;
 
   story.elements.push({
@@ -533,6 +545,7 @@ function processBlockHeader(line_iter, story, lang, story_languages) {
       active_no: start_no1,
     },
   });
+  console.log(story.elements);
   return false;
 }
 
@@ -885,7 +898,9 @@ export function processStoryFile(
   //window.audio_insert_lines = []
 
   let lines = split_lines(text);
-
+  console.log("******LINES*******");
+  console.log(lines);
+  console.log("*****************");
   let story = {
     elements: [],
     meta: {
@@ -899,11 +914,23 @@ export function processStoryFile(
     },
   };
   let line_iter = line_iterator(lines);
+  console.log("******line_iter*******");
+  console.log(lines);
+  console.log("*****************");
   while (line_iter.get()) {
     let line = line_iter.get();
+    console.log("******line_iter.get*******");
+    console.log(line_iter.get());
+    console.log("*****************");
     let match = line.match(/\[([^\]]*)\](<(.+)>)?$/);
+    console.log("******match*******");
+    console.log(match);
+    console.log("*****************");
     if (match !== null) {
-      line_iter.advance();
+      // line_iter.advance();
+      console.log("******advance*******");
+      console.log(line_iter.advance());
+      console.log("*****************");
       let current_block = match[1];
       try {
         if (block_functions[current_block]) {

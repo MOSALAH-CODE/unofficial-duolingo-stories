@@ -1,11 +1,16 @@
 import React from "react";
+import dynamic from "next/dynamic";
 
 import query from "lib/db";
 
 import StoryWrapper from "./story_wrapper";
 import { notFound } from "next/navigation";
 
+import story1 from "./stories/en-ar-ADAPTATION-FROM-en-es-lily-s-clothesMID_NOVEMBER_HANDOFF.json";
+import { promises as fs } from "fs";
+
 export async function get_story(story_id) {
+  console.log(story_id);
   let res = await query(
     `SELECT l1.short AS fromLanguage, l2.short AS learningLanguage, 
               l1.name AS fromLanguageLong, l2.name AS learningLanguageLong, 
@@ -16,7 +21,7 @@ export async function get_story(story_id) {
               LEFT JOIN language l1 ON l1.id = c.fromLanguage
               LEFT JOIN language l2 ON l2.id = c.learningLanguage 
               WHERE story.id = ?;`,
-    [story_id],
+    [story_id]
   );
   if (res.length === 0) {
     //result.sendStatus(404);
@@ -47,7 +52,7 @@ export async function get_story_meta(course_id) {
               LEFT JOIN language l2 ON l2.id = c.learningLanguage 
               WHERE story.id = ?;
         `,
-    [course_id],
+    [course_id]
   );
 
   if (course_query.length === 0) return undefined;
@@ -57,25 +62,33 @@ export async function get_story_meta(course_id) {
 export async function generateMetadata({ params, searchParams }, parent) {
   const story = await get_story_meta(params.story_id);
 
-  if (!story) notFound();
+  // if (!story) notFound();
 
   const meta = await parent;
 
   return {
-    title: `Duostories ${story.learningLanguageLong} from ${story.fromLanguageLong}: ${story.fromLanguageName}`,
+    // title: `Duostories ${story.learningLanguageLong} from ${story.fromLanguageLong}: ${story.fromLanguageName}`,
     alternates: {
-      canonical: `https://duostories.org/story/${params.story_id}`,
+      // canonical: `https://duostories.org/story/${params.story_id}`,
     },
-    keywords: [story.learningLanguageLong, ...meta.keywords],
+    // keywords: [story.learningLanguageLong, ...meta.keywords],
   };
 }
 
 export default async function Page({ params }) {
-  const story = await get_story(params.story_id);
+  const story_id = params.story_id;
+  const storyPath = `/src/app/(stories)/story/[story_id]/stories/${story_id}.json`;
+  let storyData;
+  try {
+    const file = await fs.readFile(process.cwd() + `${storyPath}`, "utf8");
+    storyData = JSON.parse(file);
+  } catch (err) {
+    notFound()
+  }
 
   return (
     <>
-      <StoryWrapper story={story} />
+      <StoryWrapper story={storyData} />
     </>
   );
 }

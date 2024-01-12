@@ -1,0 +1,1602 @@
+{
+  "elements": [
+    {
+      "type": "HEADER",
+      "illustrationUrl": "https://stories-cdn.duolingo.com/image/a9d84d4e299c60bdb37d50cc28d74b53af395ac1.svg",
+      "title": "ملابس ليلي",
+      "learningLanguageTitleContent": {
+        "audio": {
+          "keypoints": [
+            {
+              "audioStart": 0,
+              "rangeEnd": 7
+            },
+            {
+              "audioStart": 810,
+              "rangeEnd": 14
+            }
+          ],
+          "url": "https://stories-cdn.duolingo.com/audio/c6cb3b1561862892f154a7179cb8125be532ac48.mp3"
+        },
+        "hintMap": [
+          {
+            "hintIndex": 0,
+            "rangeFrom": 0,
+            "rangeTo": 13
+          }
+        ],
+        "hints": [
+          "ملابس ليلي"
+        ],
+        "text": "Lily's Clothes"
+      },
+      "trackingProperties": {}
+    },
+    {
+      "type": "LINE",
+      "hideRangesForChallenge": [],
+      "line": {
+        "type": "PROSE",
+        "content": {
+          "audio": {
+            "keypoints": [
+              {
+                "audioStart": 0,
+                "rangeEnd": 5
+              },
+              {
+                "audioStart": 910,
+                "rangeEnd": 8
+              },
+              {
+                "audioStart": 1140,
+                "rangeEnd": 11
+              },
+              {
+                "audioStart": 1450,
+                "rangeEnd": 18
+              },
+              {
+                "audioStart": 2100,
+                "rangeEnd": 25
+              },
+              {
+                "audioStart": 3310,
+                "rangeEnd": 29
+              },
+              {
+                "audioStart": 3730,
+                "rangeEnd": 32
+              },
+              {
+                "audioStart": 3930,
+                "rangeEnd": 40
+              },
+              {
+                "audioStart": 4770,
+                "rangeEnd": 43
+              },
+              {
+                "audioStart": 5030,
+                "rangeEnd": 50
+              },
+              {
+                "audioStart": 5720,
+                "rangeEnd": 58
+              }
+            ],
+            "url": "https://stories-cdn.duolingo.com/audio/10c1519cf8a3230e805d0cc76e696235ea3b27f8.mp3"
+          },
+          "hintMap": [
+            {
+              "hintIndex": 0,
+              "rangeFrom": 0,
+              "rangeTo": 3
+            },
+            {
+              "hintIndex": 1,
+              "rangeFrom": 5,
+              "rangeTo": 9
+            },
+            {
+              "hintIndex": 2,
+              "rangeFrom": 11,
+              "rangeTo": 22
+            },
+            {
+              "hintIndex": 3,
+              "rangeFrom": 25,
+              "rangeTo": 27
+            },
+            {
+              "hintIndex": 4,
+              "rangeFrom": 29,
+              "rangeTo": 38
+            },
+            {
+              "hintIndex": 5,
+              "rangeFrom": 40,
+              "rangeTo": 41
+            },
+            {
+              "hintIndex": 6,
+              "rangeFrom": 43,
+              "rangeTo": 56
+            }
+          ],
+          "hints": [
+            "زاري",
+            "في",
+            "بيت ليلي",
+            "هي",
+            "تنظر",
+            "إلى",
+            "ملابس ليلي"
+          ],
+          "text": "Zari is at Lily's house. She is looking at Lily's clothes."
+        },
+        "lineIndex": 1
+      },
+      "trackingProperties": {
+        "line_index": 1
+      }
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "answers": [
+        {
+          "hintMap": [],
+          "hints": [],
+          "text": "لا، هذا خطأ."
+        },
+        {
+          "hintMap": [],
+          "hints": [],
+          "text": "نعم، هذا صحيح."
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "question": {
+        "hintMap": [
+          {
+            "hintIndex": 0,
+            "rangeFrom": 0,
+            "rangeTo": 3
+          },
+          {
+            "hintIndex": 1,
+            "rangeFrom": 18,
+            "rangeTo": 21
+          }
+        ],
+        "hints": [
+          "زاري",
+          "ليلي"
+        ],
+        "text": "Zari تبحث في واجب Lily المنزلي."
+      },
+      "lineIndex": 1,
+      "challengeLanguage": "ar",
+      "trackingProperties": {
+        "line_index": 1,
+        "challenge_type": "multiple-choice"
+      }
+    },
+    {
+      "type": "LINE",
+      "hideRangesForChallenge": [],
+      "line": {
+        "type": "CHARACTER",
+        "avatarUrl": "https://stories-cdn.duolingo.com/image/1742be90dcf6a5a829595614a2d59cec1ecad0dd.svg",
+        "characterId": 418,
+        "characterNameMap": {
+          "en": "Zari",
+          "ko": "자리",
+          "es": "Zari",
+          "de": "Sari",
+          "ru": "Зари",
+          "fr": "Zari",
+          "pt": "Zari",
+          "it": "Zari",
+          "ja": "ザリ"
+        },
+        "content": {
+          "audio": {
+            "keypoints": [
+              {
+                "audioStart": 0,
+                "rangeEnd": 4
+              },
+              {
+                "audioStart": 360,
+                "rangeEnd": 9
+              },
+              {
+                "audioStart": 810,
+                "rangeEnd": 11
+              },
+              {
+                "audioStart": 1000,
+                "rangeEnd": 15
+              },
+              {
+                "audioStart": 1610,
+                "rangeEnd": 18
+              },
+              {
+                "audioStart": 1860,
+                "rangeEnd": 25
+              },
+              {
+                "audioStart": 2270,
+                "rangeEnd": 33
+              }
+            ],
+            "url": "https://stories-cdn.duolingo.com/audio/b9074f5fb59a5f30abdabc97434ef13a5c8b4378.mp3"
+          },
+          "hintMap": [
+            {
+              "hintIndex": 0,
+              "rangeFrom": 0,
+              "rangeTo": 7
+            },
+            {
+              "hintIndex": 1,
+              "rangeFrom": 9,
+              "rangeTo": 13
+            },
+            {
+              "hintIndex": 2,
+              "rangeFrom": 15,
+              "rangeTo": 16
+            },
+            {
+              "hintIndex": 3,
+              "rangeFrom": 18,
+              "rangeTo": 23
+            },
+            {
+              "hintIndex": 4,
+              "rangeFrom": 25,
+              "rangeTo": 31
+            }
+          ],
+          "hints": [
+            "عندك",
+            "الكثير",
+            "من",
+            "البنفسجية",
+            "الملابس"
+          ],
+          "text": "You have a lot of purple clothes."
+        },
+        "lineIndex": 2
+      },
+      "trackingProperties": {
+        "line_index": 2
+      }
+    },
+    {
+      "type": "LINE",
+      "hideRangesForChallenge": [],
+      "line": {
+        "type": "CHARACTER",
+        "avatarUrl": "https://stories-cdn.duolingo.com/image/8d0eb3d545fd5be1d476dd0ea0810fb5146954a6.svg",
+        "characterId": 416,
+        "characterNameMap": {
+          "es": "Lily",
+          "pt": "Lili",
+          "ko": "릴리",
+          "ja": "リリー",
+          "it": "Lily",
+          "fr": "Lily",
+          "en": "Lily",
+          "de": "Lilli",
+          "ru": "Лили"
+        },
+        "content": {
+          "audio": {
+            "keypoints": [
+              {
+                "audioStart": 0,
+                "rangeEnd": 7
+              },
+              {
+                "audioStart": 1010,
+                "rangeEnd": 10
+              },
+              {
+                "audioStart": 1270,
+                "rangeEnd": 13
+              },
+              {
+                "audioStart": 1530,
+                "rangeEnd": 22
+              },
+              {
+                "audioStart": 2200,
+                "rangeEnd": 28
+              }
+            ],
+            "url": "https://stories-cdn.duolingo.com/audio/1768f5e80ed00476e71f030a9417e711f889391c.mp3"
+          },
+          "hintMap": [
+            {
+              "hintIndex": 0,
+              "rangeFrom": 0,
+              "rangeTo": 5
+            },
+            {
+              "hintIndex": 1,
+              "rangeFrom": 7,
+              "rangeTo": 8
+            },
+            {
+              "hintIndex": 2,
+              "rangeFrom": 10,
+              "rangeTo": 11
+            },
+            {
+              "hintIndex": 3,
+              "rangeFrom": 13,
+              "rangeTo": 20
+            },
+            {
+              "hintIndex": 4,
+              "rangeFrom": 22,
+              "rangeTo": 26
+            }
+          ],
+          "hints": [
+            "البنفسجي",
+            "هو",
+            "لي",
+            "المفضل",
+            "اللون"
+          ],
+          "text": "Purple is my favorite color."
+        },
+        "lineIndex": 3
+      },
+      "trackingProperties": {
+        "line_index": 3
+      }
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "answers": [
+        {
+          "hintMap": [],
+          "hints": [],
+          "text": "البنفسجي"
+        },
+        {
+          "hintMap": [],
+          "hints": [],
+          "text": "الأصفر"
+        },
+        {
+          "hintMap": [],
+          "hints": [],
+          "text": "الأحمر"
+        }
+      ],
+      "correctAnswerIndex": 0,
+      "question": {
+        "hintMap": [
+          {
+            "hintIndex": 0,
+            "rangeFrom": 10,
+            "rangeTo": 13
+          }
+        ],
+        "hints": [
+          "ليلي"
+        ],
+        "text": "ما هو لون Lily المفضل؟"
+      },
+      "lineIndex": 3,
+      "challengeLanguage": "ar",
+      "trackingProperties": {
+        "line_index": 3,
+        "challenge_type": "multiple-choice"
+      }
+    },
+    {
+      "type": "LINE",
+      "hideRangesForChallenge": [],
+      "line": {
+        "type": "CHARACTER",
+        "avatarUrl": "https://stories-cdn.duolingo.com/image/1742be90dcf6a5a829595614a2d59cec1ecad0dd.svg",
+        "characterId": 418,
+        "characterNameMap": {
+          "en": "Zari",
+          "ko": "자리",
+          "es": "Zari",
+          "de": "Sari",
+          "ru": "Зари",
+          "fr": "Zari",
+          "pt": "Zari",
+          "it": "Zari",
+          "ja": "ザリ"
+        },
+        "content": {
+          "audio": {
+            "keypoints": [
+              {
+                "audioStart": 0,
+                "rangeEnd": 3
+              },
+              {
+                "audioStart": 270,
+                "rangeEnd": 7
+              },
+              {
+                "audioStart": 480,
+                "rangeEnd": 12
+              },
+              {
+                "audioStart": 880,
+                "rangeEnd": 17
+              },
+              {
+                "audioStart": 1740,
+                "rangeEnd": 24
+              },
+              {
+                "audioStart": 2160,
+                "rangeEnd": 31
+              }
+            ],
+            "url": "https://stories-cdn.duolingo.com/audio/2489f78fb478b67be31f0e13378b52a27ddddcc3.mp3"
+          },
+          "hintMap": [
+            {
+              "hintIndex": 0,
+              "rangeFrom": 0,
+              "rangeTo": 1
+            },
+            {
+              "hintIndex": 1,
+              "rangeFrom": 3,
+              "rangeTo": 10
+            },
+            {
+              "hintIndex": 2,
+              "rangeFrom": 12,
+              "rangeTo": 15
+            },
+            {
+              "hintIndex": 3,
+              "rangeFrom": 17,
+              "rangeTo": 22
+            },
+            {
+              "hintIndex": 4,
+              "rangeFrom": 24,
+              "rangeTo": 29
+            }
+          ],
+          "hints": [
+            "هل",
+            "تحتاجين",
+            "خمسة",
+            "بنفسجية",
+            "قمصان"
+          ],
+          "text": "Do you need five purple shirts?"
+        },
+        "lineIndex": 4
+      },
+      "trackingProperties": {
+        "line_index": 4
+      }
+    },
+    {
+      "type": "LINE",
+      "hideRangesForChallenge": [],
+      "line": {
+        "type": "CHARACTER",
+        "avatarUrl": "https://stories-cdn.duolingo.com/image/8d0eb3d545fd5be1d476dd0ea0810fb5146954a6.svg",
+        "characterId": 416,
+        "characterNameMap": {
+          "es": "Lily",
+          "pt": "Lili",
+          "ko": "릴리",
+          "ja": "リリー",
+          "it": "Lily",
+          "fr": "Lily",
+          "en": "Lily",
+          "de": "Lilli",
+          "ru": "Лили"
+        },
+        "content": {
+          "audio": {
+            "keypoints": [
+              {
+                "audioStart": 0,
+                "rangeEnd": 5
+              },
+              {
+                "audioStart": 420,
+                "rangeEnd": 11
+              },
+              {
+                "audioStart": 1000,
+                "rangeEnd": 14
+              },
+              {
+                "audioStart": 1260,
+                "rangeEnd": 21
+              },
+              {
+                "audioStart": 1780,
+                "rangeEnd": 29
+              }
+            ],
+            "url": "https://stories-cdn.duolingo.com/audio/3079c412c09bbac53f92bf33445c74e8dcc1e5b7.mp3"
+          },
+          "hintMap": [
+            {
+              "hintIndex": 0,
+              "rangeFrom": 0,
+              "rangeTo": 9
+            },
+            {
+              "hintIndex": 1,
+              "rangeFrom": 14,
+              "rangeTo": 19
+            },
+            {
+              "hintIndex": 2,
+              "rangeFrom": 21,
+              "rangeTo": 27
+            }
+          ],
+          "hints": [
+            "إنها تناسب",
+            "البنفسجية",
+            "ستراتي"
+          ],
+          "text": "They match my purple jackets."
+        },
+        "lineIndex": 5
+      },
+      "trackingProperties": {
+        "line_index": 5
+      }
+    },
+    {
+      "type": "POINT_TO_PHRASE",
+      "correctAnswerIndex": 0,
+      "transcriptParts": [
+        {
+          "selectable": true,
+          "text": "They match"
+        },
+        {
+          "selectable": false,
+          "text": " "
+        },
+        {
+          "selectable": true,
+          "text": "my"
+        },
+        {
+          "selectable": false,
+          "text": " "
+        },
+        {
+          "selectable": true,
+          "text": "purple"
+        },
+        {
+          "selectable": false,
+          "text": " "
+        },
+        {
+          "selectable": true,
+          "text": "jackets"
+        },
+        {
+          "selectable": false,
+          "text": "."
+        }
+      ],
+      "question": {
+        "hintMap": [],
+        "hints": [],
+        "text": " اختر الخيار الذي يعني \"إنها تناسب\"."
+      },
+      "lineIndex": 5,
+      "challengeLanguage": "ar",
+      "trackingProperties": {
+        "line_index": 5,
+        "challenge_type": "point-to-phrase"
+      }
+    },
+    {
+      "type": "LINE",
+      "hideRangesForChallenge": [],
+      "line": {
+        "type": "CHARACTER",
+        "avatarUrl": "https://stories-cdn.duolingo.com/image/1742be90dcf6a5a829595614a2d59cec1ecad0dd.svg",
+        "characterId": 418,
+        "characterNameMap": {
+          "en": "Zari",
+          "ko": "자리",
+          "es": "Zari",
+          "de": "Sari",
+          "ru": "Зари",
+          "fr": "Zari",
+          "pt": "Zari",
+          "it": "Zari",
+          "ja": "ザリ"
+        },
+        "content": {
+          "audio": {
+            "keypoints": [
+              {
+                "audioStart": 0,
+                "rangeEnd": 4
+              },
+              {
+                "audioStart": 340,
+                "rangeEnd": 9
+              },
+              {
+                "audioStart": 1140,
+                "rangeEnd": 16
+              },
+              {
+                "audioStart": 1560,
+                "rangeEnd": 21
+              }
+            ],
+            "url": "https://stories-cdn.duolingo.com/audio/d51d456e1f64352f12e448da3b8c2ea20717ddeb.mp3"
+          },
+          "hintMap": [
+            {
+              "hintIndex": 0,
+              "rangeFrom": 0,
+              "rangeTo": 2
+            },
+            {
+              "hintIndex": 1,
+              "rangeFrom": 4,
+              "rangeTo": 7
+            },
+            {
+              "hintIndex": 2,
+              "rangeFrom": 9,
+              "rangeTo": 14
+            },
+            {
+              "hintIndex": 3,
+              "rangeFrom": 16,
+              "rangeTo": 19
+            }
+          ],
+          "hints": [
+            "و",
+            "أربع",
+            "بنفسجية",
+            "قبعات"
+          ],
+          "text": "And four purple hats?"
+        },
+        "lineIndex": 6
+      },
+      "trackingProperties": {
+        "line_index": 6
+      }
+    },
+    {
+      "type": "LINE",
+      "hideRangesForChallenge": [],
+      "line": {
+        "type": "CHARACTER",
+        "avatarUrl": "https://stories-cdn.duolingo.com/image/8d0eb3d545fd5be1d476dd0ea0810fb5146954a6.svg",
+        "characterId": 416,
+        "characterNameMap": {
+          "es": "Lily",
+          "pt": "Lili",
+          "ko": "릴리",
+          "ja": "リリー",
+          "it": "Lily",
+          "fr": "Lily",
+          "en": "Lily",
+          "de": "Lilli",
+          "ru": "Лили"
+        },
+        "content": {
+          "audio": {
+            "keypoints": [
+              {
+                "audioStart": 0,
+                "rangeEnd": 2
+              },
+              {
+                "audioStart": 360,
+                "rangeEnd": 7
+              },
+              {
+                "audioStart": 590,
+                "rangeEnd": 10
+              },
+              {
+                "audioStart": 880,
+                "rangeEnd": 16
+              },
+              {
+                "audioStart": 1590,
+                "rangeEnd": 18
+              },
+              {
+                "audioStart": 1800,
+                "rangeEnd": 21
+              },
+              {
+                "audioStart": 1970,
+                "rangeEnd": 25
+              },
+              {
+                "audioStart": 2370,
+                "rangeEnd": 30
+              },
+              {
+                "audioStart": 2680,
+                "rangeEnd": 34
+              },
+              {
+                "audioStart": 2820,
+                "rangeEnd": 38
+              }
+            ],
+            "url": "https://stories-cdn.duolingo.com/audio/7de6acc99212bf60fc4f80b58bd6283a939a6302.mp3"
+          },
+          "hintMap": [
+            {
+              "hintIndex": 0,
+              "rangeFrom": 0,
+              "rangeTo": 5
+            },
+            {
+              "hintIndex": 1,
+              "rangeFrom": 7,
+              "rangeTo": 13
+            },
+            {
+              "hintIndex": 2,
+              "rangeFrom": 16,
+              "rangeTo": 16
+            },
+            {
+              "hintIndex": 3,
+              "rangeFrom": 18,
+              "rangeTo": 23
+            },
+            {
+              "hintIndex": 4,
+              "rangeFrom": 25,
+              "rangeTo": 28
+            },
+            {
+              "hintIndex": 5,
+              "rangeFrom": 30,
+              "rangeTo": 36
+            }
+          ],
+          "hints": [
+            "أحتاج",
+            "قبعاتي",
+            "أنا",
+            "لا",
+            "أحب",
+            "الشمس"
+          ],
+          "text": "I need my hats. I do not like the sun."
+        },
+        "lineIndex": 7
+      },
+      "trackingProperties": {
+        "line_index": 7
+      }
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "answers": [
+        {
+          "hintMap": [],
+          "hints": [],
+          "text": "... تحميها من البرد."
+        },
+        {
+          "hintMap": [],
+          "hints": [],
+          "text": "... تصنع تمويهًا جيدًا."
+        },
+        {
+          "hintMap": [],
+          "hints": [],
+          "text": "... تحجب الشمس."
+        }
+      ],
+      "correctAnswerIndex": 2,
+      "question": {
+        "hintMap": [
+          {
+            "hintIndex": 0,
+            "rangeFrom": 4,
+            "rangeTo": 7
+          }
+        ],
+        "hints": [
+          "ليلي"
+        ],
+        "text": "تحب Lily القبعات لأنها…"
+      },
+      "lineIndex": 7,
+      "challengeLanguage": "ar",
+      "trackingProperties": {
+        "line_index": 7,
+        "challenge_type": "multiple-choice"
+      }
+    },
+    {
+      "type": "LINE",
+      "hideRangesForChallenge": [],
+      "line": {
+        "type": "CHARACTER",
+        "avatarUrl": "https://stories-cdn.duolingo.com/image/1742be90dcf6a5a829595614a2d59cec1ecad0dd.svg",
+        "characterId": 418,
+        "characterNameMap": {
+          "en": "Zari",
+          "ko": "자리",
+          "es": "Zari",
+          "de": "Sari",
+          "ru": "Зари",
+          "fr": "Zari",
+          "pt": "Zari",
+          "it": "Zari",
+          "ja": "ザリ"
+        },
+        "content": {
+          "audio": {
+            "keypoints": [
+              {
+                "audioStart": 0,
+                "rangeEnd": 6
+              },
+              {
+                "audioStart": 870,
+                "rangeEnd": 8
+              },
+              {
+                "audioStart": 1180,
+                "rangeEnd": 13
+              },
+              {
+                "audioStart": 1650,
+                "rangeEnd": 23
+              },
+              {
+                "audioStart": 2420,
+                "rangeEnd": 27
+              },
+              {
+                "audioStart": 2660,
+                "rangeEnd": 31
+              }
+            ],
+            "url": "https://stories-cdn.duolingo.com/audio/9b522137537db8fea49b22c4769748e9f2bc323a.mp3"
+          },
+          "hintMap": [
+            {
+              "hintIndex": 0,
+              "rangeFrom": 0,
+              "rangeTo": 3
+            },
+            {
+              "hintIndex": 1,
+              "rangeFrom": 6,
+              "rangeTo": 11
+            },
+            {
+              "hintIndex": 2,
+              "rangeFrom": 13,
+              "rangeTo": 21
+            },
+            {
+              "hintIndex": 3,
+              "rangeFrom": 23,
+              "rangeTo": 29
+            }
+          ],
+          "hints": [
+            "هممم",
+            "عندي",
+            "شيء",
+            "لك"
+          ],
+          "text": "Hmmm… I have something for you."
+        },
+        "lineIndex": 8
+      },
+      "trackingProperties": {
+        "line_index": 8
+      }
+    },
+    {
+      "type": "LINE",
+      "hideRangesForChallenge": [],
+      "line": {
+        "type": "PROSE",
+        "content": {
+          "audio": {
+            "keypoints": [
+              {
+                "audioStart": 0,
+                "rangeEnd": 5
+              },
+              {
+                "audioStart": 810,
+                "rangeEnd": 11
+              },
+              {
+                "audioStart": 1420,
+                "rangeEnd": 14
+              },
+              {
+                "audioStart": 1640,
+                "rangeEnd": 18
+              },
+              {
+                "audioStart": 1920,
+                "rangeEnd": 22
+              }
+            ],
+            "url": "https://stories-cdn.duolingo.com/audio/042b18539119b11ad66a079b2f01ace00aa75212.mp3"
+          },
+          "hintMap": [
+            {
+              "hintIndex": 0,
+              "rangeFrom": 0,
+              "rangeTo": 3
+            },
+            {
+              "hintIndex": 1,
+              "rangeFrom": 5,
+              "rangeTo": 9
+            },
+            {
+              "hintIndex": 2,
+              "rangeFrom": 11,
+              "rangeTo": 12
+            },
+            {
+              "hintIndex": 3,
+              "rangeFrom": 14,
+              "rangeTo": 20
+            }
+          ],
+          "hints": [
+            "زاري",
+            "تنظر",
+            "في",
+            "حقيبتها"
+          ],
+          "text": "Zari looks in her bag."
+        },
+        "lineIndex": 9
+      },
+      "trackingProperties": {
+        "line_index": 9
+      }
+    },
+    {
+      "type": "LINE",
+      "hideRangesForChallenge": [],
+      "line": {
+        "type": "PROSE",
+        "content": {
+          "audio": {
+            "keypoints": [
+              {
+                "audioStart": 0,
+                "rangeEnd": 4
+              },
+              {
+                "audioStart": 310,
+                "rangeEnd": 10
+              },
+              {
+                "audioStart": 840,
+                "rangeEnd": 15
+              },
+              {
+                "audioStart": 1650,
+                "rangeEnd": 19
+              },
+              {
+                "audioStart": 2130,
+                "rangeEnd": 23
+              },
+              {
+                "audioStart": 2730,
+                "rangeEnd": 34
+              }
+            ],
+            "url": "https://stories-cdn.duolingo.com/audio/2e0f55a8398c144155aee597b5593cd6dca9792e.mp3"
+          },
+          "hintMap": [
+            {
+              "hintIndex": 0,
+              "rangeFrom": 0,
+              "rangeTo": 8
+            },
+            {
+              "hintIndex": 1,
+              "rangeFrom": 10,
+              "rangeTo": 13
+            },
+            {
+              "hintIndex": 2,
+              "rangeFrom": 15,
+              "rangeTo": 17
+            },
+            {
+              "hintIndex": 3,
+              "rangeFrom": 19,
+              "rangeTo": 21
+            },
+            {
+              "hintIndex": 4,
+              "rangeFrom": 23,
+              "rangeTo": 32
+            }
+          ],
+          "hints": [
+            "تعطي",
+            "ليلي",
+            "كبيرة",
+            "حمراء",
+            "نظارة شمسية"
+          ],
+          "text": "She gives Lily big red sunglasses."
+        },
+        "lineIndex": 10
+      },
+      "trackingProperties": {
+        "line_index": 10
+      }
+    },
+    {
+      "type": "POINT_TO_PHRASE",
+      "correctAnswerIndex": 3,
+      "transcriptParts": [
+        {
+          "selectable": true,
+          "text": "She gives"
+        },
+        {
+          "selectable": false,
+          "text": " "
+        },
+        {
+          "selectable": true,
+          "text": "Lily"
+        },
+        {
+          "selectable": false,
+          "text": " "
+        },
+        {
+          "selectable": true,
+          "text": "big"
+        },
+        {
+          "selectable": false,
+          "text": " "
+        },
+        {
+          "selectable": false,
+          "text": "red"
+        },
+        {
+          "selectable": false,
+          "text": " "
+        },
+        {
+          "selectable": true,
+          "text": "sunglasses"
+        },
+        {
+          "selectable": false,
+          "text": "."
+        }
+      ],
+      "question": {
+        "hintMap": [],
+        "hints": [],
+        "text": " اختر الخيار الذي يعني \"نظارة شمسية\"."
+      },
+      "lineIndex": 10,
+      "challengeLanguage": "ar",
+      "trackingProperties": {
+        "line_index": 10,
+        "challenge_type": "point-to-phrase"
+      }
+    },
+    {
+      "type": "LINE",
+      "hideRangesForChallenge": [],
+      "line": {
+        "type": "CHARACTER",
+        "avatarUrl": "https://stories-cdn.duolingo.com/image/1742be90dcf6a5a829595614a2d59cec1ecad0dd.svg",
+        "characterId": 418,
+        "characterNameMap": {
+          "en": "Zari",
+          "ko": "자리",
+          "es": "Zari",
+          "de": "Sari",
+          "ru": "Зари",
+          "fr": "Zari",
+          "pt": "Zari",
+          "it": "Zari",
+          "ja": "ザリ"
+        },
+        "content": {
+          "audio": {
+            "keypoints": [
+              {
+                "audioStart": 0,
+                "rangeEnd": 6
+              },
+              {
+                "audioStart": 650,
+                "rangeEnd": 11
+              },
+              {
+                "audioStart": 880,
+                "rangeEnd": 15
+              },
+              {
+                "audioStart": 1090,
+                "rangeEnd": 20
+              },
+              {
+                "audioStart": 1460,
+                "rangeEnd": 22
+              },
+              {
+                "audioStart": 1590,
+                "rangeEnd": 26
+              },
+              {
+                "audioStart": 1960,
+                "rangeEnd": 32
+              },
+              {
+                "audioStart": 2590,
+                "rangeEnd": 35
+              },
+              {
+                "audioStart": 2710,
+                "rangeEnd": 39
+              },
+              {
+                "audioStart": 2910,
+                "rangeEnd": 44
+              }
+            ],
+            "url": "https://stories-cdn.duolingo.com/audio/82d3f39d0d3639a544262572b306e067ac79f5ea.mp3"
+          },
+          "hintMap": [
+            {
+              "hintIndex": 0,
+              "rangeFrom": 0,
+              "rangeTo": 3
+            },
+            {
+              "hintIndex": 1,
+              "rangeFrom": 6,
+              "rangeTo": 9
+            },
+            {
+              "hintIndex": 2,
+              "rangeFrom": 15,
+              "rangeTo": 18
+            },
+            {
+              "hintIndex": 3,
+              "rangeFrom": 22,
+              "rangeTo": 24
+            },
+            {
+              "hintIndex": 4,
+              "rangeFrom": 26,
+              "rangeTo": 30
+            },
+            {
+              "hintIndex": 5,
+              "rangeFrom": 32,
+              "rangeTo": 33
+            },
+            {
+              "hintIndex": 6,
+              "rangeFrom": 35,
+              "rangeTo": 42
+            }
+          ],
+          "hints": [
+            "تفضلي",
+            "هي",
+            "من",
+            "جديد",
+            "متجر",
+            "في",
+            "المدينة"
+          ],
+          "text": "Here! They are from a new store in the city."
+        },
+        "lineIndex": 11
+      },
+      "trackingProperties": {
+        "line_index": 11
+      }
+    },
+    {
+      "type": "LINE",
+      "hideRangesForChallenge": [],
+      "line": {
+        "type": "CHARACTER",
+        "avatarUrl": "https://stories-cdn.duolingo.com/image/8d0eb3d545fd5be1d476dd0ea0810fb5146954a6.svg",
+        "characterId": 416,
+        "characterNameMap": {
+          "es": "Lily",
+          "pt": "Lili",
+          "ko": "릴리",
+          "ja": "リリー",
+          "it": "Lily",
+          "fr": "Lily",
+          "en": "Lily",
+          "de": "Lilli",
+          "ru": "Лили"
+        },
+        "content": {
+          "audio": {
+            "keypoints": [
+              {
+                "audioStart": 0,
+                "rangeEnd": 5
+              },
+              {
+                "audioStart": 1270,
+                "rangeEnd": 8
+              }
+            ],
+            "url": "https://stories-cdn.duolingo.com/audio/e20dfdd4b9a4ed38500e2bc16b065e7008b01096.mp3"
+          },
+          "hintMap": [
+            {
+              "hintIndex": 0,
+              "rangeFrom": 0,
+              "rangeTo": 2
+            },
+            {
+              "hintIndex": 1,
+              "rangeFrom": 5,
+              "rangeTo": 6
+            }
+          ],
+          "hints": [
+            "آ",
+            "حسنًا"
+          ],
+          "text": "Uhh… OK."
+        },
+        "lineIndex": 12
+      },
+      "trackingProperties": {
+        "line_index": 12
+      }
+    },
+    {
+      "type": "LINE",
+      "hideRangesForChallenge": [],
+      "line": {
+        "type": "CHARACTER",
+        "avatarUrl": "https://stories-cdn.duolingo.com/image/1742be90dcf6a5a829595614a2d59cec1ecad0dd.svg",
+        "characterId": 418,
+        "characterNameMap": {
+          "en": "Zari",
+          "ko": "자리",
+          "es": "Zari",
+          "de": "Sari",
+          "ru": "Зари",
+          "fr": "Zari",
+          "pt": "Zari",
+          "it": "Zari",
+          "ja": "ザリ"
+        },
+        "content": {
+          "audio": {
+            "keypoints": [
+              {
+                "audioStart": 0,
+                "rangeEnd": 4
+              },
+              {
+                "audioStart": 210,
+                "rangeEnd": 10
+              },
+              {
+                "audioStart": 660,
+                "rangeEnd": 14
+              },
+              {
+                "audioStart": 1270,
+                "rangeEnd": 17
+              },
+              {
+                "audioStart": 1590,
+                "rangeEnd": 25
+              },
+              {
+                "audioStart": 2410,
+                "rangeEnd": 29
+              },
+              {
+                "audioStart": 2620,
+                "rangeEnd": 33
+              }
+            ],
+            "url": "https://stories-cdn.duolingo.com/audio/a33fba79e491548324f198ec548b01b21f5b1233.mp3"
+          },
+          "hintMap": [
+            {
+              "hintIndex": 0,
+              "rangeFrom": 0,
+              "rangeTo": 8
+            },
+            {
+              "hintIndex": 1,
+              "rangeFrom": 10,
+              "rangeTo": 12
+            },
+            {
+              "hintIndex": 2,
+              "rangeFrom": 14,
+              "rangeTo": 23
+            },
+            {
+              "hintIndex": 3,
+              "rangeFrom": 25,
+              "rangeTo": 31
+            }
+          ],
+          "hints": [
+            "اللون",
+            "الأحمر",
+            "مثالي",
+            "لك"
+          ],
+          "text": "The color red is perfect for you."
+        },
+        "lineIndex": 13
+      },
+      "trackingProperties": {
+        "line_index": 13
+      }
+    },
+    {
+      "type": "LINE",
+      "hideRangesForChallenge": [],
+      "line": {
+        "type": "CHARACTER",
+        "avatarUrl": "https://stories-cdn.duolingo.com/image/8d0eb3d545fd5be1d476dd0ea0810fb5146954a6.svg",
+        "characterId": 416,
+        "characterNameMap": {
+          "es": "Lily",
+          "pt": "Lili",
+          "ko": "릴리",
+          "ja": "リリー",
+          "it": "Lily",
+          "fr": "Lily",
+          "en": "Lily",
+          "de": "Lilli",
+          "ru": "Лили"
+        },
+        "content": {
+          "audio": {
+            "keypoints": [
+              {
+                "audioStart": 0,
+                "rangeEnd": 5
+              },
+              {
+                "audioStart": 330,
+                "rangeEnd": 9
+              },
+              {
+                "audioStart": 530,
+                "rangeEnd": 15
+              },
+              {
+                "audioStart": 1010,
+                "rangeEnd": 20
+              },
+              {
+                "audioStart": 1690,
+                "rangeEnd": 27
+              },
+              {
+                "audioStart": 2290,
+                "rangeEnd": 38
+              }
+            ],
+            "url": "https://stories-cdn.duolingo.com/audio/91eb04fe32a5e4fb3b4cffd7a4876bea8ba40e73.mp3"
+          },
+          "hintMap": [
+            {
+              "hintIndex": 0,
+              "rangeFrom": 0,
+              "rangeTo": 3
+            },
+            {
+              "hintIndex": 1,
+              "rangeFrom": 5,
+              "rangeTo": 13
+            },
+            {
+              "hintIndex": 2,
+              "rangeFrom": 15,
+              "rangeTo": 18
+            },
+            {
+              "hintIndex": 3,
+              "rangeFrom": 20,
+              "rangeTo": 25
+            },
+            {
+              "hintIndex": 4,
+              "rangeFrom": 27,
+              "rangeTo": 36
+            }
+          ],
+          "hints": [
+            "هل",
+            "المتجر",
+            "عنده",
+            "بنفسجية",
+            "نظارة شمسية"
+          ],
+          "text": "Does the store have purple sunglasses?"
+        },
+        "lineIndex": 14
+      },
+      "trackingProperties": {
+        "line_index": 14
+      }
+    },
+    {
+      "type": "MULTIPLE_CHOICE",
+      "answers": [
+        {
+          "hintMap": [],
+          "hints": [],
+          "text": "… غالية جدًا."
+        },
+        {
+          "hintMap": [],
+          "hints": [],
+          "text": "… تفضل النظارات الشمسية البنفسجية."
+        },
+        {
+          "hintMap": [],
+          "hints": [],
+          "text": "… بنفسجية للغاية."
+        }
+      ],
+      "correctAnswerIndex": 1,
+      "question": {
+        "hintMap": [
+          {
+            "hintIndex": 0,
+            "rangeFrom": 4,
+            "rangeTo": 7
+          }
+        ],
+        "hints": [
+          "ليلي"
+        ],
+        "text": "تحب Lily النظارات الشمسية ، لكنها…"
+      },
+      "lineIndex": 14,
+      "challengeLanguage": "ar",
+      "trackingProperties": {
+        "line_index": 14,
+        "challenge_type": "multiple-choice"
+      }
+    },
+    {
+      "type": "MATCH",
+      "fallbackHints": [
+        {
+          "phrase": "her bag",
+          "translation": "حقيبتها"
+        },
+        {
+          "phrase": "my",
+          "translation": "لي"
+        },
+        {
+          "phrase": "favorite",
+          "translation": "المفضل"
+        },
+        {
+          "phrase": "sunglasses",
+          "translation": "نظارة شمسية"
+        },
+        {
+          "phrase": "jackets",
+          "translation": "ستراتي"
+        }
+      ],
+      "prompt": "اضغط على الأزواج المتطابقة",
+      "lineIndex": 15,
+      "trackingProperties": {
+        "line_index": 15,
+        "challenge_type": "match"
+      }
+    }
+  ],
+  "learningLanguage": "en",
+  "fromLanguage": "ar",
+  "revision": 7,
+  "startTime": 1704980046,
+  "illustrations": {
+    "active": "https://stories-cdn.duolingo.com/image/a9d84d4e299c60bdb37d50cc28d74b53af395ac1.svg",
+    "gilded": "https://stories-cdn.duolingo.com/image/e2fa6736dc53b3d4bee895cfa35e4cb8ec91199d.svg",
+    "locked": "https://stories-cdn.duolingo.com/image/4b4a3a3c5ab0a1ed1eb0402bf65fafc9ea3268b8.svg"
+  },
+  "listenModeCharacterIds": [
+    418
+  ],
+  "speakModeCharacterIds": [
+    416
+  ],
+  "cefrLevel": "Intro",
+  "baseXp": 14,
+  "mode": "READ",
+  "isListenModeAvailable": false,
+  "isListenModeRequired": false,
+  "fromLanguageName": "ملابس ليلي",
+  "unspeakableWords": [],
+  "showPromptsInTargetLanguage": false,
+  "trackingProperties": {
+    "adaptive_difficulty_level": 4,
+    "already_completed": false,
+    "story_play_mode": "read",
+    "total_stories_completed": 0,
+    "completed_story_count": 0,
+    "story_max_level": 0,
+    "story_set_index": -1,
+    "has_writing": false,
+    "story_id": "en-ar-ADAPTATION-FROM-en-es-lily-s-clothesMID_NOVEMBER_HANDOFF",
+    "story_revision": 7,
+    "story_language": "en",
+    "cefr_level": "Intro",
+    "multipart": false,
+    "story_type": "radio-play",
+    "story_subtype": "radio-play",
+    "session_cefr_level_section": "Intro",
+    "session_cefr_level": "Intro",
+    "activity_uuid": "622067b1-119d-4bd9-a2fd-b96aa8542f5a"
+  },
+  "trackingConstants": {
+    "maxTimePerLine": 30,
+    "maxTimePerChallenge": 60
+  }
+}

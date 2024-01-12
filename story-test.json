@@ -1,0 +1,2408 @@
+{
+    "elements": [
+      {
+        "type": "HEADER",
+        "illustrationUrl": "https://stories-cdn.duolingo.com/image/783305780a6dad8e0e4eb34109d948e6a5fc2c35.svg",
+        "title": "Good Morning",
+        "learningLanguageTitleContent": {
+          "hintMap": [
+            {
+              "hintIndex": 0,
+              "rangeFrom": 0,
+              "rangeTo": 6
+            }
+          ],
+          "hints": [
+            "good morning"
+          ],
+          "text": "Bon dia",
+          "audio": {
+            "ssml": {
+              "text": "<speak>Bon dia</speak>",
+              "speaker": "ca-ES-AlbaNeural",
+              "id": 2099,
+              "line": 9,
+              "line_insert": 9
+            },
+            "url": "audio/2099/b194f68e.mp3",
+            "keypoints": [
+              {
+                "rangeEnd": 3,
+                "audioStart": 0
+              },
+              {
+                "rangeEnd": 7,
+                "audioStart": 251
+              }
+            ]
+          }
+        },
+        "trackingProperties": {},
+        "audio": {
+          "ssml": {
+            "text": "<speak>Bon dia</speak>",
+            "speaker": "ca-ES-AlbaNeural",
+            "id": 2099,
+            "line": 9,
+            "line_insert": 9
+          },
+          "url": "audio/2099/b194f68e.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 3,
+              "audioStart": 0
+            },
+            {
+              "rangeEnd": 7,
+              "audioStart": 251
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 6,
+          "start_no": 6,
+          "end_no": 11,
+          "active_no": 7
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/7074d00522c0be6307e3e405f503699a99d2121e.svg",
+          "characterId": 593,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 6
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 9,
+                "rangeTo": 13
+              }
+            ],
+            "hints": [
+              "good morning",
+              "Priti"
+            ],
+            "text": "Bon dia, Priti!",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Bon dia,  Priti!</speak>",
+                "speaker": "ca-ES-EnricNeural",
+                "id": 2099,
+                "line": 14,
+                "line_insert": 14
+              },
+              "url": "audio/2099/572a3bd2.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 3,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 7,
+                  "audioStart": 337
+                },
+                {
+                  "rangeEnd": 13,
+                  "audioStart": 725
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 1
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Bon dia,  Priti!</speak>",
+            "speaker": "ca-ES-EnricNeural",
+            "id": 2099,
+            "line": 14,
+            "line_insert": 14
+          },
+          "url": "audio/2099/572a3bd2.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 3,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 7,
+              "audioStart": 337
+            },
+            {
+              "rangeEnd": 13,
+              "audioStart": 725
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 11,
+          "start_no": 11,
+          "end_no": 16,
+          "active_no": 12
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/2b2b64afe0c2af19eed8ac69c36cb8803d0a090e.svg",
+          "characterId": 560,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 6
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 9,
+                "rangeTo": 12
+              },
+              {
+                "hintIndex": 2,
+                "rangeFrom": 14,
+                "rangeTo": 16
+              }
+            ],
+            "hints": [
+              "good morning",
+              "my",
+              "love"
+            ],
+            "text": "Bon dia, amor meu.",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Bon dia, amor meu.</speak>",
+                "speaker": "ca-Es-AlbaNeural",
+                "id": 2099,
+                "line": 19,
+                "line_insert": 19
+              },
+              "url": "audio/2099/9255743e.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 3,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 7,
+                  "audioStart": 350
+                },
+                {
+                  "rangeEnd": 12,
+                  "audioStart": 787
+                },
+                {
+                  "rangeEnd": 16,
+                  "audioStart": 1150
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 2
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Bon dia, amor meu.</speak>",
+            "speaker": "ca-Es-AlbaNeural",
+            "id": 2099,
+            "line": 19,
+            "line_insert": 19
+          },
+          "url": "audio/2099/9255743e.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 3,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 7,
+              "audioStart": 350
+            },
+            {
+              "rangeEnd": 12,
+              "audioStart": 787
+            },
+            {
+              "rangeEnd": 16,
+              "audioStart": 1150
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 16,
+          "start_no": 16,
+          "end_no": 21,
+          "active_no": 17
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/2b2b64afe0c2af19eed8ac69c36cb8803d0a090e.svg",
+          "characterId": 560,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 1
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 3,
+                "rangeTo": 5
+              },
+              {
+                "hintIndex": 2,
+                "rangeFrom": 7,
+                "rangeTo": 15
+              },
+              {
+                "hintIndex": 3,
+                "rangeFrom": 17,
+                "rangeTo": 21
+              }
+            ],
+            "hints": [
+              "where",
+              "are",
+              "my",
+              "keys"
+            ],
+            "text": "On són les meves claus?",
+            "audio": {
+              "ssml": {
+                "text": "<speak>On són les meves claus?</speak>",
+                "speaker": "ca-Es-AlbaNeural",
+                "id": 2099,
+                "line": 24,
+                "line_insert": 24
+              },
+              "url": "audio/2099/b3cc286e.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 2,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 6,
+                  "audioStart": 200
+                },
+                {
+                  "rangeEnd": 10,
+                  "audioStart": 450
+                },
+                {
+                  "rangeEnd": 16,
+                  "audioStart": 650
+                },
+                {
+                  "rangeEnd": 22,
+                  "audioStart": 1050
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 3
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>On són les meves claus?</speak>",
+            "speaker": "ca-Es-AlbaNeural",
+            "id": 2099,
+            "line": 24,
+            "line_insert": 24
+          },
+          "url": "audio/2099/b3cc286e.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 2,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 6,
+              "audioStart": 200
+            },
+            {
+              "rangeEnd": 10,
+              "audioStart": 450
+            },
+            {
+              "rangeEnd": 16,
+              "audioStart": 650
+            },
+            {
+              "rangeEnd": 22,
+              "audioStart": 1050
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 21,
+          "start_no": 21,
+          "end_no": 26,
+          "active_no": 22
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/7074d00522c0be6307e3e405f503699a99d2121e.svg",
+          "characterId": 593,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 8
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 10,
+                "rangeTo": 14
+              }
+            ],
+            "hints": [
+              "your",
+              "keys"
+            ],
+            "text": "Les teves claus?",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Les teves claus?</speak>",
+                "speaker": "ca-ES-EnricNeural",
+                "id": 2099,
+                "line": 30,
+                "line_insert": 30
+              },
+              "url": "audio/2099/b815768c.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 3,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 9,
+                  "audioStart": 237
+                },
+                {
+                  "rangeEnd": 15,
+                  "audioStart": 550
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 4
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Les teves claus?</speak>",
+            "speaker": "ca-ES-EnricNeural",
+            "id": 2099,
+            "line": 30,
+            "line_insert": 30
+          },
+          "url": "audio/2099/b815768c.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 3,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 9,
+              "audioStart": 237
+            },
+            {
+              "rangeEnd": 15,
+              "audioStart": 550
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 26,
+          "start_no": 26,
+          "end_no": 32,
+          "active_no": 28
+        }
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "answers": [
+          {
+            "hintMap": [],
+            "hints": [],
+            "text": "Yes, that's right."
+          },
+          {
+            "hintMap": [],
+            "hints": [],
+            "text": "No, that's wrong."
+          }
+        ],
+        "correctAnswerIndex": 0,
+        "question": {
+          "hintMap": [],
+          "hints": [],
+          "text": "Priti can't find her keys."
+        },
+        "trackingProperties": {
+          "line_index": 4,
+          "challenge_type": "multiple-choice"
+        },
+        "editor": {
+          "block_start_no": 32,
+          "start_no": 32,
+          "end_no": 37,
+          "active_no": 33
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/2b2b64afe0c2af19eed8ac69c36cb8803d0a090e.svg",
+          "characterId": 560,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 1
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 4,
+                "rangeTo": 12
+              },
+              {
+                "hintIndex": 2,
+                "rangeFrom": 14,
+                "rangeTo": 17
+              },
+              {
+                "hintIndex": 3,
+                "rangeFrom": 19,
+                "rangeTo": 22
+              },
+              {
+                "hintIndex": 4,
+                "rangeFrom": 24,
+                "rangeTo": 28
+              }
+            ],
+            "hints": [
+              "yes",
+              "I need",
+              "to go",
+              "to",
+              "work"
+            ],
+            "text": "Sí, necessito anar a la feina.",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Sí,  necessito anar    a la feina.</speak>",
+                "speaker": "ca-Es-AlbaNeural",
+                "id": 2099,
+                "line": 40,
+                "line_insert": 40
+              },
+              "url": "audio/2099/951503d8.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 2,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 12,
+                  "audioStart": 325
+                },
+                {
+                  "rangeEnd": 17,
+                  "audioStart": 1000
+                },
+                {
+                  "rangeEnd": 19,
+                  "audioStart": 1275
+                },
+                {
+                  "rangeEnd": 22,
+                  "audioStart": 1350
+                },
+                {
+                  "rangeEnd": 28,
+                  "audioStart": 1462
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 5
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Sí,  necessito anar    a la feina.</speak>",
+            "speaker": "ca-Es-AlbaNeural",
+            "id": 2099,
+            "line": 40,
+            "line_insert": 40
+          },
+          "url": "audio/2099/951503d8.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 2,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 12,
+              "audioStart": 325
+            },
+            {
+              "rangeEnd": 17,
+              "audioStart": 1000
+            },
+            {
+              "rangeEnd": 19,
+              "audioStart": 1275
+            },
+            {
+              "rangeEnd": 22,
+              "audioStart": 1350
+            },
+            {
+              "rangeEnd": 28,
+              "audioStart": 1462
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 37,
+          "start_no": 37,
+          "end_no": 42,
+          "active_no": 38
+        }
+      },
+      {
+        "type": "CHALLENGE_PROMPT",
+        "prompt": {
+          "hintMap": [],
+          "hints": [],
+          "text": "Tap what you hear"
+        },
+        "trackingProperties": {
+          "line_index": 6,
+          "challenge_type": "arrange"
+        },
+        "editor": {
+          "block_start_no": 42,
+          "start_no": 42,
+          "end_no": 44,
+          "active_no": 43
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [
+          {
+            "start": 0,
+            "end": 34
+          }
+        ],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/2b2b64afe0c2af19eed8ac69c36cb8803d0a090e.svg",
+          "characterId": 560,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 8
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 10,
+                "rangeTo": 18
+              },
+              {
+                "hintIndex": 2,
+                "rangeFrom": 20,
+                "rangeTo": 22
+              },
+              {
+                "hintIndex": 3,
+                "rangeFrom": 24,
+                "rangeTo": 26
+              },
+              {
+                "hintIndex": 4,
+                "rangeFrom": 28,
+                "rangeTo": 32
+              }
+            ],
+            "hints": [
+              "I need",
+              "the keys",
+              "of",
+              "my",
+              "car"
+            ],
+            "text": "Necessito les claus del meu cotxe!",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Necessito les claus del meu cotxe!</speak>",
+                "speaker": "ca-Es-AlbaNeural",
+                "id": 2099,
+                "line": 46,
+                "line_insert": 46
+              },
+              "url": "audio/2099/95940f32.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 9,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 13,
+                  "audioStart": 662
+                },
+                {
+                  "rangeEnd": 19,
+                  "audioStart": 887
+                },
+                {
+                  "rangeEnd": 23,
+                  "audioStart": 1200
+                },
+                {
+                  "rangeEnd": 27,
+                  "audioStart": 1375
+                },
+                {
+                  "rangeEnd": 33,
+                  "audioStart": 1612
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 6
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Necessito les claus del meu cotxe!</speak>",
+            "speaker": "ca-Es-AlbaNeural",
+            "id": 2099,
+            "line": 46,
+            "line_insert": 46
+          },
+          "url": "audio/2099/95940f32.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 9,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 13,
+              "audioStart": 662
+            },
+            {
+              "rangeEnd": 19,
+              "audioStart": 887
+            },
+            {
+              "rangeEnd": 23,
+              "audioStart": 1200
+            },
+            {
+              "rangeEnd": 27,
+              "audioStart": 1375
+            },
+            {
+              "rangeEnd": 33,
+              "audioStart": 1612
+            }
+          ]
+        },
+        "editor": {
+          "start_no": 44,
+          "end_no": 48
+        }
+      },
+      {
+        "type": "ARRANGE",
+        "characterPositions": [
+          10,
+          20,
+          24,
+          28,
+          34
+        ],
+        "phraseOrder": [
+          3,
+          4,
+          1,
+          0,
+          2
+        ],
+        "selectablePhrases": [
+          "meu",
+          "cotxe",
+          "les claus",
+          "Necessito",
+          "del"
+        ],
+        "trackingProperties": {
+          "line_index": 6,
+          "challenge_type": "arrange"
+        },
+        "editor": {
+          "start_no": 44,
+          "end_no": 48
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/7074d00522c0be6307e3e405f503699a99d2121e.svg",
+          "characterId": 593,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 1
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 4,
+                "rangeTo": 5
+              },
+              {
+                "hintIndex": 2,
+                "rangeFrom": 8,
+                "rangeTo": 12
+              },
+              {
+                "hintIndex": 3,
+                "rangeFrom": 15,
+                "rangeTo": 23
+              },
+              {
+                "hintIndex": 4,
+                "rangeFrom": 25,
+                "rangeTo": 29
+              },
+              {
+                "hintIndex": 5,
+                "rangeFrom": 31,
+                "rangeTo": 33
+              },
+              {
+                "hintIndex": 6,
+                "rangeFrom": 35,
+                "rangeTo": 38
+              },
+              {
+                "hintIndex": 7,
+                "rangeFrom": 40,
+                "rangeTo": 40
+              },
+              {
+                "hintIndex": 8,
+                "rangeFrom": 42,
+                "rangeTo": 43
+              },
+              {
+                "hintIndex": 9,
+                "rangeFrom": 45,
+                "rangeTo": 49
+              },
+              {
+                "hintIndex": 10,
+                "rangeFrom": 52,
+                "rangeTo": 53
+              },
+              {
+                "hintIndex": 11,
+                "rangeFrom": 56,
+                "rangeTo": 57
+              },
+              {
+                "hintIndex": 12,
+                "rangeFrom": 60,
+                "rangeTo": 61
+              }
+            ],
+            "hints": [
+              "ha",
+              "ha",
+              "Priti",
+              "your",
+              "keys",
+              "are",
+              "here",
+              "on",
+              "the",
+              "table",
+              "ha",
+              "ha",
+              "ha"
+            ],
+            "text": "Ja, ja! Priti, les teves claus són aquí a la taula! Ja, ja, ja!",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Ja, ja! Priti, les teves claus són aquí a la  taula!  Ja, ja, ja!</speak>",
+                "speaker": "ca-ES-EnricNeural",
+                "id": 2099,
+                "line": 52,
+                "line_insert": 52
+              },
+              "url": "audio/2099/c1f8d5f4.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 2,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 5,
+                  "audioStart": 462
+                },
+                {
+                  "rangeEnd": 11,
+                  "audioStart": 1712
+                },
+                {
+                  "rangeEnd": 15,
+                  "audioStart": 2312
+                },
+                {
+                  "rangeEnd": 21,
+                  "audioStart": 2525
+                },
+                {
+                  "rangeEnd": 27,
+                  "audioStart": 2875
+                },
+                {
+                  "rangeEnd": 31,
+                  "audioStart": 3300
+                },
+                {
+                  "rangeEnd": 36,
+                  "audioStart": 3575
+                },
+                {
+                  "rangeEnd": 38,
+                  "audioStart": 3887
+                },
+                {
+                  "rangeEnd": 41,
+                  "audioStart": 3962
+                },
+                {
+                  "rangeEnd": 47,
+                  "audioStart": 4075
+                },
+                {
+                  "rangeEnd": 50,
+                  "audioStart": 5450
+                },
+                {
+                  "rangeEnd": 53,
+                  "audioStart": 5912
+                },
+                {
+                  "rangeEnd": 56,
+                  "audioStart": 6387
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 7
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Ja, ja! Priti, les teves claus són aquí a la  taula!  Ja, ja, ja!</speak>",
+            "speaker": "ca-ES-EnricNeural",
+            "id": 2099,
+            "line": 52,
+            "line_insert": 52
+          },
+          "url": "audio/2099/c1f8d5f4.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 2,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 5,
+              "audioStart": 462
+            },
+            {
+              "rangeEnd": 11,
+              "audioStart": 1712
+            },
+            {
+              "rangeEnd": 15,
+              "audioStart": 2312
+            },
+            {
+              "rangeEnd": 21,
+              "audioStart": 2525
+            },
+            {
+              "rangeEnd": 27,
+              "audioStart": 2875
+            },
+            {
+              "rangeEnd": 31,
+              "audioStart": 3300
+            },
+            {
+              "rangeEnd": 36,
+              "audioStart": 3575
+            },
+            {
+              "rangeEnd": 38,
+              "audioStart": 3887
+            },
+            {
+              "rangeEnd": 41,
+              "audioStart": 3962
+            },
+            {
+              "rangeEnd": 47,
+              "audioStart": 4075
+            },
+            {
+              "rangeEnd": 50,
+              "audioStart": 5450
+            },
+            {
+              "rangeEnd": 53,
+              "audioStart": 5912
+            },
+            {
+              "rangeEnd": 56,
+              "audioStart": 6387
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 48,
+          "start_no": 48,
+          "end_no": 54,
+          "active_no": 50
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/2b2b64afe0c2af19eed8ac69c36cb8803d0a090e.svg",
+          "characterId": 560,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 4
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 7,
+                "rangeTo": 10
+              },
+              {
+                "hintIndex": 2,
+                "rangeFrom": 12,
+                "rangeTo": 14
+              },
+              {
+                "hintIndex": 3,
+                "rangeFrom": 17,
+                "rangeTo": 21
+              },
+              {
+                "hintIndex": 4,
+                "rangeFrom": 23,
+                "rangeTo": 29
+              },
+              {
+                "hintIndex": 5,
+                "rangeFrom": 32,
+                "rangeTo": 39
+              },
+              {
+                "hintIndex": 6,
+                "rangeFrom": 41,
+                "rangeTo": 44
+              }
+            ],
+            "hints": [
+              "sorry",
+              "my",
+              "love",
+              "I am",
+              "tired",
+              "I work",
+              "a lot"
+            ],
+            "text": "Perdó, amor meu, estic cansada. Treballo molt!",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Perdó, amor meu, estic cansada. Treballo molt!</speak>",
+                "speaker": "ca-Es-AlbaNeural",
+                "id": 2099,
+                "line": 59,
+                "line_insert": 59
+              },
+              "url": "audio/2099/c4e26460.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 5,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 10,
+                  "audioStart": 500
+                },
+                {
+                  "rangeEnd": 14,
+                  "audioStart": 850
+                },
+                {
+                  "rangeEnd": 20,
+                  "audioStart": 1225
+                },
+                {
+                  "rangeEnd": 28,
+                  "audioStart": 1575
+                },
+                {
+                  "rangeEnd": 37,
+                  "audioStart": 3075
+                },
+                {
+                  "rangeEnd": 42,
+                  "audioStart": 3512
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 8
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Perdó, amor meu, estic cansada. Treballo molt!</speak>",
+            "speaker": "ca-Es-AlbaNeural",
+            "id": 2099,
+            "line": 59,
+            "line_insert": 59
+          },
+          "url": "audio/2099/c4e26460.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 5,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 10,
+              "audioStart": 500
+            },
+            {
+              "rangeEnd": 14,
+              "audioStart": 850
+            },
+            {
+              "rangeEnd": 20,
+              "audioStart": 1225
+            },
+            {
+              "rangeEnd": 28,
+              "audioStart": 1575
+            },
+            {
+              "rangeEnd": 37,
+              "audioStart": 3075
+            },
+            {
+              "rangeEnd": 42,
+              "audioStart": 3512
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 54,
+          "start_no": 54,
+          "end_no": 57,
+          "active_no": 55
+        }
+      },
+      {
+        "type": "POINT_TO_PHRASE",
+        "correctAnswerIndex": 2,
+        "transcriptParts": [
+          {
+            "selectable": true,
+            "text": "Perdó"
+          },
+          {
+            "selectable": false,
+            "text": ", "
+          },
+          {
+            "selectable": false,
+            "text": "amor"
+          },
+          {
+            "selectable": false,
+            "text": " "
+          },
+          {
+            "selectable": false,
+            "text": "meu"
+          },
+          {
+            "selectable": false,
+            "text": ", "
+          },
+          {
+            "selectable": true,
+            "text": "estic"
+          },
+          {
+            "selectable": false,
+            "text": " "
+          },
+          {
+            "selectable": true,
+            "text": "cansada"
+          },
+          {
+            "selectable": false,
+            "text": ". "
+          },
+          {
+            "selectable": true,
+            "text": "Treballo"
+          },
+          {
+            "selectable": false,
+            "text": " "
+          },
+          {
+            "selectable": false,
+            "text": "molt"
+          },
+          {
+            "selectable": false,
+            "text": "!"
+          }
+        ],
+        "question": {
+          "hintMap": [],
+          "hints": [],
+          "text": "Choose the option that means \"tired.\""
+        },
+        "trackingProperties": {
+          "line_index": 8,
+          "challenge_type": "point-to-phrase"
+        },
+        "editor": {
+          "start_no": 57,
+          "end_no": 61
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/7074d00522c0be6307e3e405f503699a99d2121e.svg",
+          "characterId": 593,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 3
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 5,
+                "rangeTo": 8
+              }
+            ],
+            "hints": [
+              "do you want",
+              "coffee"
+            ],
+            "text": "Vols cafè?",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Vols     cafè?</speak>",
+                "speaker": "ca-ES-EnricNeural",
+                "id": 2099,
+                "line": 64,
+                "line_insert": 64
+              },
+              "url": "audio/2099/c89c66b4.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 4,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 9,
+                  "audioStart": 362
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 9
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Vols     cafè?</speak>",
+            "speaker": "ca-ES-EnricNeural",
+            "id": 2099,
+            "line": 64,
+            "line_insert": 64
+          },
+          "url": "audio/2099/c89c66b4.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 4,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 9,
+              "audioStart": 362
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 61,
+          "start_no": 61,
+          "end_no": 66,
+          "active_no": 62
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/2b2b64afe0c2af19eed8ac69c36cb8803d0a090e.svg",
+          "characterId": 560,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 1
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 4,
+                "rangeTo": 13
+              }
+            ],
+            "hints": [
+              "yes",
+              "please"
+            ],
+            "text": "Sí, si us plau!",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Sí,  si us plau!</speak>",
+                "speaker": "ca-Es-AlbaNeural",
+                "id": 2099,
+                "line": 69,
+                "line_insert": 69
+              },
+              "url": "audio/2099/9f2e98d4.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 2,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 5,
+                  "audioStart": 300
+                },
+                {
+                  "rangeEnd": 8,
+                  "audioStart": 462
+                },
+                {
+                  "rangeEnd": 13,
+                  "audioStart": 612
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 10
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Sí,  si us plau!</speak>",
+            "speaker": "ca-Es-AlbaNeural",
+            "id": 2099,
+            "line": 69,
+            "line_insert": 69
+          },
+          "url": "audio/2099/9f2e98d4.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 2,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 5,
+              "audioStart": 300
+            },
+            {
+              "rangeEnd": 8,
+              "audioStart": 462
+            },
+            {
+              "rangeEnd": 13,
+              "audioStart": 612
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 66,
+          "start_no": 66,
+          "end_no": 71,
+          "active_no": 67
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/7074d00522c0be6307e3e405f503699a99d2121e.svg",
+          "characterId": 593,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 3
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 5,
+                "rangeTo": 8
+              },
+              {
+                "hintIndex": 2,
+                "rangeFrom": 11,
+                "rangeTo": 14
+              },
+              {
+                "hintIndex": 3,
+                "rangeFrom": 16,
+                "rangeTo": 18
+              }
+            ],
+            "hints": [
+              "here",
+              "it is",
+              "my",
+              "love"
+            ],
+            "text": "Aquí està, amor meu.",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Aquí està,  amor meu.</speak>",
+                "speaker": "ca-ES-EnricNeural",
+                "id": 2099,
+                "line": 75,
+                "line_insert": 75
+              },
+              "url": "audio/2099/554de7c2.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 4,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 9,
+                  "audioStart": 412
+                },
+                {
+                  "rangeEnd": 14,
+                  "audioStart": 1150
+                },
+                {
+                  "rangeEnd": 18,
+                  "audioStart": 1450
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 11
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Aquí està,  amor meu.</speak>",
+            "speaker": "ca-ES-EnricNeural",
+            "id": 2099,
+            "line": 75,
+            "line_insert": 75
+          },
+          "url": "audio/2099/554de7c2.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 4,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 9,
+              "audioStart": 412
+            },
+            {
+              "rangeEnd": 14,
+              "audioStart": 1150
+            },
+            {
+              "rangeEnd": 18,
+              "audioStart": 1450
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 71,
+          "start_no": 71,
+          "end_no": 77,
+          "active_no": 72
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/2b2b64afe0c2af19eed8ac69c36cb8803d0a090e.svg",
+          "characterId": 560,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 1
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 3,
+                "rangeTo": 4
+              },
+              {
+                "hintIndex": 2,
+                "rangeFrom": 6,
+                "rangeTo": 7
+              },
+              {
+                "hintIndex": 3,
+                "rangeFrom": 9,
+                "rangeTo": 13
+              },
+              {
+                "hintIndex": 4,
+                "rangeFrom": 16,
+                "rangeTo": 17
+              },
+              {
+                "hintIndex": 5,
+                "rangeFrom": 20,
+                "rangeTo": 23
+              },
+              {
+                "hintIndex": 6,
+                "rangeFrom": 25,
+                "rangeTo": 28
+              }
+            ],
+            "hints": [
+              "where",
+              "is",
+              "the",
+              "sugar",
+              "oh",
+              "here",
+              "it is"
+            ],
+            "text": "On és el sucre? Ah, aquí està.",
+            "audio": {
+              "ssml": {
+                "text": "<speak>On és el  sucre? Ah, aquí està.</speak>",
+                "speaker": "ca-Es-AlbaNeural",
+                "id": 2099,
+                "line": 81,
+                "line_insert": 81
+              },
+              "url": "audio/2099/04196796.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 2,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 5,
+                  "audioStart": 212
+                },
+                {
+                  "rangeEnd": 8,
+                  "audioStart": 375
+                },
+                {
+                  "rangeEnd": 14,
+                  "audioStart": 475
+                },
+                {
+                  "rangeEnd": 17,
+                  "audioStart": 1825
+                },
+                {
+                  "rangeEnd": 22,
+                  "audioStart": 2025
+                },
+                {
+                  "rangeEnd": 27,
+                  "audioStart": 2312
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 12
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>On és el  sucre? Ah, aquí està.</speak>",
+            "speaker": "ca-Es-AlbaNeural",
+            "id": 2099,
+            "line": 81,
+            "line_insert": 81
+          },
+          "url": "audio/2099/04196796.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 2,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 5,
+              "audioStart": 212
+            },
+            {
+              "rangeEnd": 8,
+              "audioStart": 375
+            },
+            {
+              "rangeEnd": 14,
+              "audioStart": 475
+            },
+            {
+              "rangeEnd": 17,
+              "audioStart": 1825
+            },
+            {
+              "rangeEnd": 22,
+              "audioStart": 2025
+            },
+            {
+              "rangeEnd": 27,
+              "audioStart": 2312
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 77,
+          "start_no": 77,
+          "end_no": 83,
+          "active_no": 79
+        }
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "answers": [
+          {
+            "hintMap": [],
+            "hints": [],
+            "text": "pouring her coffee on the table"
+          },
+          {
+            "hintMap": [],
+            "hints": [],
+            "text": "putting sugar on her keys"
+          },
+          {
+            "hintMap": [],
+            "hints": [],
+            "text": "looking for some sugar for her coffee"
+          }
+        ],
+        "correctAnswerIndex": 2,
+        "question": {
+          "hintMap": [],
+          "hints": [],
+          "text": "Hmm… what is Priti doing?"
+        },
+        "trackingProperties": {
+          "line_index": 12,
+          "challenge_type": "multiple-choice"
+        },
+        "editor": {
+          "block_start_no": 83,
+          "start_no": 83,
+          "end_no": 89,
+          "active_no": 84
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "PROSE",
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 3
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 5,
+                "rangeTo": 7
+              },
+              {
+                "hintIndex": 2,
+                "rangeFrom": 9,
+                "rangeTo": 14
+              },
+              {
+                "hintIndex": 3,
+                "rangeFrom": 16,
+                "rangeTo": 19
+              }
+            ],
+            "hints": [
+              "she",
+              "drinks",
+              "her",
+              "coffee"
+            ],
+            "text": "Ella beu el seu cafè.",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Ella beu   el seu  cafè.</speak>",
+                "speaker": "ca-ES-AlbaNeural",
+                "id": 2099,
+                "line": 92,
+                "line_insert": 92
+              },
+              "url": "audio/2099/a37de57a.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 4,
+                  "audioStart": 0
+                },
+                {
+                  "rangeEnd": 8,
+                  "audioStart": 251
+                },
+                {
+                  "rangeEnd": 11,
+                  "audioStart": 431
+                },
+                {
+                  "rangeEnd": 15,
+                  "audioStart": 516
+                },
+                {
+                  "rangeEnd": 20,
+                  "audioStart": 791
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 13
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Ella beu   el seu  cafè.</speak>",
+            "speaker": "ca-ES-AlbaNeural",
+            "id": 2099,
+            "line": 92,
+            "line_insert": 92
+          },
+          "url": "audio/2099/a37de57a.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 4,
+              "audioStart": 0
+            },
+            {
+              "rangeEnd": 8,
+              "audioStart": 251
+            },
+            {
+              "rangeEnd": 11,
+              "audioStart": 431
+            },
+            {
+              "rangeEnd": 15,
+              "audioStart": 516
+            },
+            {
+              "rangeEnd": 20,
+              "audioStart": 791
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 89,
+          "start_no": 89,
+          "end_no": 94,
+          "active_no": 90
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/2b2b64afe0c2af19eed8ac69c36cb8803d0a090e.svg",
+          "characterId": 560,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 1
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 4,
+                "rangeTo": 5
+              }
+            ],
+            "hints": [
+              "oh",
+              "no"
+            ],
+            "text": "Ai, no!",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Ai, no!</speak>",
+                "speaker": "ca-Es-AlbaNeural",
+                "id": 2099,
+                "line": 97,
+                "line_insert": 97
+              },
+              "url": "audio/2099/a4e5e9c6.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 2,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 5,
+                  "audioStart": 337
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 14
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Ai, no!</speak>",
+            "speaker": "ca-Es-AlbaNeural",
+            "id": 2099,
+            "line": 97,
+            "line_insert": 97
+          },
+          "url": "audio/2099/a4e5e9c6.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 2,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 5,
+              "audioStart": 337
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 94,
+          "start_no": 94,
+          "end_no": 99,
+          "active_no": 95
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/7074d00522c0be6307e3e405f503699a99d2121e.svg",
+          "characterId": 593,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 2
+              }
+            ],
+            "hints": [
+              "what"
+            ],
+            "text": "Què?",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Què?</speak>",
+                "speaker": "ca-ES-EnricNeural",
+                "id": 2099,
+                "line": 103,
+                "line_insert": 103
+              },
+              "url": "audio/2099/0ae99410.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 3,
+                  "audioStart": 50
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 15
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Què?</speak>",
+            "speaker": "ca-ES-EnricNeural",
+            "id": 2099,
+            "line": 103,
+            "line_insert": 103
+          },
+          "url": "audio/2099/0ae99410.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 3,
+              "audioStart": 50
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 99,
+          "start_no": 99,
+          "end_no": 105,
+          "active_no": 100
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/2b2b64afe0c2af19eed8ac69c36cb8803d0a090e.svg",
+          "characterId": 560,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 3
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 5,
+                "rangeTo": 6
+              },
+              {
+                "hintIndex": 2,
+                "rangeFrom": 8,
+                "rangeTo": 10
+              }
+            ],
+            "hints": [
+              "that",
+              "is",
+              "salt"
+            ],
+            "text": "Això és sal!",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Això  és sal!</speak>",
+                "speaker": "ca-Es-AlbaNeural",
+                "id": 2099,
+                "line": 110,
+                "line_insert": 110
+              },
+              "url": "audio/2099/4a6e6b88.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 4,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 7,
+                  "audioStart": 425
+                },
+                {
+                  "rangeEnd": 11,
+                  "audioStart": 612
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 16
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Això  és sal!</speak>",
+            "speaker": "ca-Es-AlbaNeural",
+            "id": 2099,
+            "line": 110,
+            "line_insert": 110
+          },
+          "url": "audio/2099/4a6e6b88.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 4,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 7,
+              "audioStart": 425
+            },
+            {
+              "rangeEnd": 11,
+              "audioStart": 612
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 105,
+          "start_no": 105,
+          "end_no": 111,
+          "active_no": 107
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/7074d00522c0be6307e3e405f503699a99d2121e.svg",
+          "characterId": 593,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 4
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 7,
+                "rangeTo": 11
+              },
+              {
+                "hintIndex": 2,
+                "rangeFrom": 13,
+                "rangeTo": 16
+              },
+              {
+                "hintIndex": 3,
+                "rangeFrom": 18,
+                "rangeTo": 24
+              }
+            ],
+            "hints": [
+              "Priti",
+              "you are",
+              "very",
+              "tired"
+            ],
+            "text": "Priti, estàs molt cansada!",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Priti, estàs   molt  cansada!</speak>",
+                "speaker": "ca-ES-EnricNeural",
+                "id": 2099,
+                "line": 114,
+                "line_insert": 114
+              },
+              "url": "audio/2099/a886ca0a.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 5,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 11,
+                  "audioStart": 612
+                },
+                {
+                  "rangeEnd": 16,
+                  "audioStart": 1037
+                },
+                {
+                  "rangeEnd": 24,
+                  "audioStart": 1250
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 17
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Priti, estàs   molt  cansada!</speak>",
+            "speaker": "ca-ES-EnricNeural",
+            "id": 2099,
+            "line": 114,
+            "line_insert": 114
+          },
+          "url": "audio/2099/a886ca0a.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 5,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 11,
+              "audioStart": 612
+            },
+            {
+              "rangeEnd": 16,
+              "audioStart": 1037
+            },
+            {
+              "rangeEnd": 24,
+              "audioStart": 1250
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 111,
+          "start_no": 111,
+          "end_no": 116,
+          "active_no": 112
+        }
+      },
+      {
+        "type": "LINE",
+        "hideRangesForChallenge": [],
+        "line": {
+          "type": "CHARACTER",
+          "avatarUrl": "https://stories-cdn.duolingo.com/image/2b2b64afe0c2af19eed8ac69c36cb8803d0a090e.svg",
+          "characterId": 560,
+          "content": {
+            "hintMap": [
+              {
+                "hintIndex": 0,
+                "rangeFrom": 0,
+                "rangeTo": 1
+              },
+              {
+                "hintIndex": 1,
+                "rangeFrom": 4,
+                "rangeTo": 12
+              },
+              {
+                "hintIndex": 2,
+                "rangeFrom": 14,
+                "rangeTo": 16
+              },
+              {
+                "hintIndex": 3,
+                "rangeFrom": 18,
+                "rangeTo": 21
+              },
+              {
+                "hintIndex": 4,
+                "rangeFrom": 24,
+                "rangeTo": 26
+              },
+              {
+                "hintIndex": 5,
+                "rangeFrom": 28,
+                "rangeTo": 32
+              },
+              {
+                "hintIndex": 6,
+                "rangeFrom": 35,
+                "rangeTo": 36
+              },
+              {
+                "hintIndex": 7,
+                "rangeFrom": 38,
+                "rangeTo": 40
+              },
+              {
+                "hintIndex": 8,
+                "rangeFrom": 42,
+                "rangeTo": 44
+              }
+            ],
+            "hints": [
+              "yes",
+              "I need",
+              "more",
+              "coffee",
+              "with",
+              "sugar",
+              "not",
+              "with",
+              "salt"
+            ],
+            "text": "Sí, necessito més cafè… amb sucre, no amb sal!",
+            "audio": {
+              "ssml": {
+                "text": "<speak>Sí,  necessito més  cafè<sub alias=\" \">…</sub><break/>   amb  sucre, no  amb  sal!</speak>",
+                "speaker": "ca-Es-AlbaNeural",
+                "id": 2099,
+                "line": 119,
+                "line_insert": 119
+              },
+              "url": "audio/2099/aa61271c.mp3",
+              "keypoints": [
+                {
+                  "rangeEnd": 2,
+                  "audioStart": 50
+                },
+                {
+                  "rangeEnd": 12,
+                  "audioStart": 325
+                },
+                {
+                  "rangeEnd": 16,
+                  "audioStart": 987
+                },
+                {
+                  "rangeEnd": 21,
+                  "audioStart": 1287
+                },
+                {
+                  "rangeEnd": 25,
+                  "audioStart": 2500
+                },
+                {
+                  "rangeEnd": 31,
+                  "audioStart": 2637
+                },
+                {
+                  "rangeEnd": 34,
+                  "audioStart": 3175
+                },
+                {
+                  "rangeEnd": 38,
+                  "audioStart": 3387
+                },
+                {
+                  "rangeEnd": 42,
+                  "audioStart": 3512
+                }
+              ]
+            }
+          }
+        },
+        "trackingProperties": {
+          "line_index": 18
+        },
+        "audio": {
+          "ssml": {
+            "text": "<speak>Sí,  necessito més  cafè<sub alias=\" \">…</sub><break/>   amb  sucre, no  amb  sal!</speak>",
+            "speaker": "ca-Es-AlbaNeural",
+            "id": 2099,
+            "line": 119,
+            "line_insert": 119
+          },
+          "url": "audio/2099/aa61271c.mp3",
+          "keypoints": [
+            {
+              "rangeEnd": 2,
+              "audioStart": 50
+            },
+            {
+              "rangeEnd": 12,
+              "audioStart": 325
+            },
+            {
+              "rangeEnd": 16,
+              "audioStart": 987
+            },
+            {
+              "rangeEnd": 21,
+              "audioStart": 1287
+            },
+            {
+              "rangeEnd": 25,
+              "audioStart": 2500
+            },
+            {
+              "rangeEnd": 31,
+              "audioStart": 2637
+            },
+            {
+              "rangeEnd": 34,
+              "audioStart": 3175
+            },
+            {
+              "rangeEnd": 38,
+              "audioStart": 3387
+            },
+            {
+              "rangeEnd": 42,
+              "audioStart": 3512
+            }
+          ]
+        },
+        "editor": {
+          "block_start_no": 116,
+          "start_no": 116,
+          "end_no": 121,
+          "active_no": 117
+        }
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "answers": [
+          {
+            "hintMap": [],
+            "hints": [],
+            "text": "…she fell asleep in the kitchen."
+          },
+          {
+            "hintMap": [],
+            "hints": [],
+            "text": "…she put salt in her coffee."
+          },
+          {
+            "hintMap": [],
+            "hints": [],
+            "text": "…she put her keys in her coffee."
+          }
+        ],
+        "correctAnswerIndex": 1,
+        "question": {
+          "hintMap": [],
+          "hints": [],
+          "text": "Priti was so tired that…"
+        },
+        "trackingProperties": {
+          "line_index": 18,
+          "challenge_type": "multiple-choice"
+        },
+        "editor": {
+          "block_start_no": 121,
+          "start_no": 121,
+          "end_no": 127,
+          "active_no": 122
+        }
+      },
+      {
+        "type": "MATCH",
+        "fallbackHints": [
+          {
+            "phrase": "estàs",
+            "translation": "you are"
+          },
+          {
+            "phrase": "molt",
+            "translation": "a lot"
+          },
+          {
+            "phrase": "és",
+            "translation": "is"
+          },
+          {
+            "phrase": "les claus",
+            "translation": "the keys"
+          },
+          {
+            "phrase": "la",
+            "translation": "the"
+          }
+        ],
+        "prompt": "Tap the pairs",
+        "trackingProperties": {
+          "line_index": 19,
+          "challenge_type": "match"
+        },
+        "editor": {
+          "block_start_no": 127,
+          "start_no": 127,
+          "end_no": 136,
+          "active_no": 128
+        }
+      }
+    ],
+    "fromLanguageName": "Good Morning",
+    "illustrations": {
+      "active": "https://stories-cdn.duolingo.com/image/783305780a6dad8e0e4eb34109d948e6a5fc2c35.svg",
+      "gilded": "https://stories-cdn.duolingo.com/image/344e43fc1b8fe4c6370f1095bd773e4478334436.svg",
+      "locked": "https://stories-cdn.duolingo.com/image/1b8b6e50c91ec2cec781fae14746e9f6014342f0.svg"
+    }
+  }

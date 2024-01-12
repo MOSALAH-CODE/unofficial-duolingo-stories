@@ -2,6 +2,7 @@
 import styles from "./set_list.module.css";
 import StoryButton from "./story_button";
 import { useEffect, useState } from "react";
+import stories from "./stories.json";
 
 const useFetch = (course_id) => {
   const [data, setData] = useState({});
@@ -36,7 +37,9 @@ const useFetch = (course_id) => {
 
 export default function SetListClient({ course_id, course }) {
   const { data: done, isLoading, isLoaded, isError } = useFetch(course_id);
-
+  console.log(stories);
+  console.log(course);
+  console.log(course.sets);
   return (
     <div className={styles.story_list} data-loaded={isLoaded}>
       {course.about ? (
@@ -47,8 +50,9 @@ export default function SetListClient({ course_id, course }) {
       ) : (
         <></>
       )}
-      {course.sets.map((set) => (
+      {stories.sets.map((set) => (
         <div key={set[0].set_id} className={styles.set_list}>
+          {console.log(set)}
           <div className={styles.set_title}>Set {set[0].set_id}</div>
           {set.map((story) => (
             <StoryButton key={story.id} story={story} done={done[story.id]} />

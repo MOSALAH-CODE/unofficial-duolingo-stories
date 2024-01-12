@@ -2,6 +2,7 @@ import React from "react";
 import styles from "./cast.module.css";
 
 export default function Cast(props) {
+  console.log(props);
   let cast = [];
   let no_speaker_count = 0;
   for (let id in props.story_meta.cast) {

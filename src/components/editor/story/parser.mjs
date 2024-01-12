@@ -301,27 +301,52 @@ function parseBockData(stream, state) {
   return STATE_ERROR;
 }
 
+/**
+ * This function is responsible for parsing the block header in the script.
+ * It checks if the stream is at the start of a new line, and if so, it determines whether it is a block header, a translation block, or an audio block.
+ * If it is a block header, it starts a new line and returns the appropriate state.
+ * If it is a translation block, it starts a new line and sets the translation mode.
+ * If it is an audio block, it skips to the end of the line and returns the audio state.
+ * If the stream is not at the start of a new line, it skips to the end of the stream and returns an error state.
+ *
+ * @param {Stream} stream - The stream to parse.
+ * @param {Object} state - The state of the parser.
+ * @returns {String} The next state of the parser.
+ */
 function parseBockHeader(stream, state) {
   if (stream.sol()) {
+    // Check if the stream is at the start of a new line
     if (state.block.line === 0 && stream.eat(">")) {
+      // If it is, start a new line with the text mode and allow the block to be hidden
       startLine(state, 1, true, "text", true);
       return STATE_DEFAULT;
     }
+    // Check if the stream is at the start of a new line and a translation block is allowed
     if (state.block.allow_trans && stream.eat("~")) {
+      // If it is, start a new line with the translation mode
       startLine(state, 1, false, "trans");
       return STATE_DEFAULT;
     }
+    // Check if the stream is at the start of a new line and an audio block is allowed
     if (state.block.allow_audio && stream.eat("$")) {
+      // If it is, skip to the end of the line and return the audio state
       startLine(state);
       stream.skipToEnd();
       return STATE_AUDIO;
     }
   }
-  if (state.block.line_type === "text")
+  // Check if the current line is a text line
+  if (state.block.line_type === "text") {
+    // If it is, parse the text with translation
     return parserTextWithTranslation(stream, state);
-  if (state.block.line_type === "trans")
+  }
+  // Check if the current line is a translation line
+  if (state.block.line_type === "trans") {
+    // If it is, parse the translation
     return parserTranslation(stream, state);
+  }
 
+  // Skip to the end of the stream and return an error state
   stream.skipToEnd();
   return STATE_ERROR;
 }
@@ -529,7 +554,7 @@ function parseBockArrange(stream, state) {
       stream,
       state,
       state.block.line === 2,
-      state.block.line === 2,
+      state.block.line === 2
     );
   if (state.block.line_type === "trans")
     return parserTranslation(stream, state);
@@ -570,7 +595,7 @@ function parseBockPointToPhrase(stream, state) {
       stream,
       state,
       state.block.line === 2,
-      (state.block.line === 2) * 2,
+      (state.block.line === 2) * 2
     );
   if (state.block.line_type === "trans")
     return parserTranslation(stream, state);

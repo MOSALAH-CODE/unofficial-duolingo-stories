@@ -1,0 +1,1527 @@
+{
+  "sets": [
+    [
+      {
+        "isVideo": false,
+        "id": "en-ar-ADAPTATION-FROM-en-es-lily-s-clothesMID_NOVEMBER_HANDOFF",
+        "isMultipart": false,
+        "title": "ملابس ليلي",
+        "subtitle": "+١٤XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 14,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/a9d84d4e299c60bdb37d50cc28d74b53af395ac1.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/e2fa6736dc53b3d4bee895cfa35e4cb8ec91199d.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/4b4a3a3c5ab0a1ed1eb0402bf65fafc9ea3268b8.svg"
+        },
+        "colors": {
+          "activeLip": "df6eb3",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 14
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-ADAPTATION-FROM-en-es-lily-s-clothesMID_NOVEMBER_HANDOFF",
+          "story_revision": 9,
+          "story_language": "en",
+          "story_set_number": 1,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "Intro",
+          "session_cefr_level_section": "Intro",
+          "session_cefr_level": "Intro"
+        }
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-ADAPTATION-FROM-en-es-at-the-supermarketMID_NOVEMBER_HANDOFF",
+        "isMultipart": false,
+        "title": "في السوبر ماركت",
+        "subtitle": "+١٤XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 14,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/9f4968b6294916f0d8c9f64c8a172ef8c0c368ef.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/412937350c2d3541465d4500e9c07562ec3eeb71.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/667b5bce163327cf26884623509cb1992b10bc6a.svg"
+        },
+        "colors": {
+          "activeLip": "9a4fcb",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 14
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-ADAPTATION-FROM-en-es-at-the-supermarketMID_NOVEMBER_HANDOFF",
+          "story_revision": 10,
+          "story_language": "en",
+          "story_set_number": 1,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "Intro",
+          "session_cefr_level_section": "Intro",
+          "session_cefr_level": "Intro"
+        }
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-ADAPTATION-FROM-en-es-the-perfect-girlfriendMID_NOVEMBER_HANDOFF",
+        "isMultipart": false,
+        "title": "الصديقة المثالية",
+        "subtitle": "+١٤XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 14,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/802c81c8811f5ca43acd16ce2f8d32b18f15352f.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/1c07fc8d864c36ed913375674ecaa40f3646c80e.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/7cc75fbedefbcddf01bb51338e3b29504a514ccd.svg"
+        },
+        "colors": {
+          "activeLip": "d94545",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 14
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-ADAPTATION-FROM-en-es-the-perfect-girlfriendMID_NOVEMBER_HANDOFF",
+          "story_revision": 9,
+          "story_language": "en",
+          "story_set_number": 1,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "Intro",
+          "session_cefr_level_section": "Intro",
+          "session_cefr_level": "Intro"
+        }
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-ADAPTATION-FROM-en-es-can-i-have-itMID_NOVEMBER_HANDOFF",
+        "isMultipart": false,
+        "title": "هل يمكنني الحصول عليه؟",
+        "subtitle": "+١٦XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 16,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/ce0ae956035c1bac6b9c64737466d59c5d027e97.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/0737967b5b9d6d743e2de03591bec8c34095f22e.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/fb59bb27af5186414bfe7f06c81bc857d37042fb.svg"
+        },
+        "colors": {
+          "activeLip": "6b42b0",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 16
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-ADAPTATION-FROM-en-es-can-i-have-itMID_NOVEMBER_HANDOFF",
+          "story_revision": 10,
+          "story_language": "en",
+          "story_set_number": 1,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "A1.1",
+          "session_cefr_level_section": "A1.1",
+          "session_cefr_level": "A1"
+        }
+      }
+    ],
+    [
+      {
+        "isVideo": false,
+        "id": "en-ar-ADAPTATION-FROM-en-es-find-my-girlfriendMID_NOVEMBER_HANDOFF",
+        "isMultipart": false,
+        "title": "إعثر صديقتي",
+        "subtitle": "+١٦XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 16,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/0d18f0403cfa415591d7ef50a9e9c01f1094936e.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/c5c16c3d5c87916306a01bf2d7eab3f79165ed48.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/cf68f80abab6ca99ea8d19adba8fd8dabd757af9.svg"
+        },
+        "colors": {
+          "activeLip": "1576ac",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 16
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-ADAPTATION-FROM-en-es-find-my-girlfriendMID_NOVEMBER_HANDOFF",
+          "story_revision": 9,
+          "story_language": "en",
+          "story_set_number": 1,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "A1.1",
+          "session_cefr_level_section": "A1.1",
+          "session_cefr_level": "A1"
+        }
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-ADAPTATION-FROM-en-es-the-basketball-playerMID_NOVEMBER_HANDOFF",
+        "isMultipart": false,
+        "title": "لاعب كرة السلة",
+        "subtitle": "+١٦XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 16,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/93b7dddcb57fc76fde878bfb42e8c4f35d68fb5d.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/1845fc381e173449100b73b5dc84322dd6d0a060.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/5d1909f92b3d3d331de4de79e4bd3e07218ef229.svg"
+        },
+        "colors": {
+          "activeLip": "6d42b0",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 16
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-ADAPTATION-FROM-en-es-the-basketball-playerMID_NOVEMBER_HANDOFF",
+          "story_revision": 6,
+          "story_language": "en",
+          "story_set_number": 1,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "A1.1",
+          "session_cefr_level_section": "A1.1",
+          "session_cefr_level": "A1"
+        }
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-ADAPTATION-FROM-en-es-birthday-planMID_NOVEMBER_HANDOFF",
+        "isMultipart": false,
+        "title": "خطة عيد ميلاد",
+        "subtitle": "+١٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 18,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/9ac312d372abe49d99606848f5a7a8414143346d.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/7bd913249101cb2a56b87e005d364a5810db108e.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/ae651762db4b1e5669394228804b7d6daa7c1a6b.svg"
+        },
+        "colors": {
+          "activeLip": "006899",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 18
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-ADAPTATION-FROM-en-es-birthday-planMID_NOVEMBER_HANDOFF",
+          "story_revision": 7,
+          "story_language": "en",
+          "story_set_number": 1,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "A1.2.a",
+          "session_cefr_level_section": "A1.2.a",
+          "session_cefr_level": "A1"
+        }
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-ADAPTATION-FROM-en-es-what-s-your-nameMID_NOVEMBER_HANDOFF",
+        "isMultipart": false,
+        "title": "ما اسمك",
+        "subtitle": "+١٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 18,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/689567546d7675ad256e56c304d89b12a7c38c8a.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/d947a4ef61bdc1ef24e28844518b5f56b5fbb017.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/f0467d1ade07d5e842c918e7429a3b710ec3b830.svg"
+        },
+        "colors": {
+          "activeLip": "1eb280",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 18
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-ADAPTATION-FROM-en-es-what-s-your-nameMID_NOVEMBER_HANDOFF",
+          "story_revision": 8,
+          "story_language": "en",
+          "story_set_number": 1,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "A1.2.a",
+          "session_cefr_level_section": "A1.2.a",
+          "session_cefr_level": "A1"
+        }
+      }
+    ],
+    [
+      {
+        "isVideo": false,
+        "id": "en-ar-ADAPTATION-FROM-en-es-an-interesting-conversationMID_NOVEMBER_HANDOFF",
+        "isMultipart": false,
+        "title": "محادثة ممتعة",
+        "subtitle": "+١٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 18,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/6711cee61441da3d7aa6099466d6fff137239c3a.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/826dd39a35e72c77f1778b4eccc23aaae93da1d1.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/f7550904541c7cc20705813a728e9ee546b8822f.svg"
+        },
+        "colors": {
+          "activeLip": "78c800",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 18
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-ADAPTATION-FROM-en-es-an-interesting-conversationMID_NOVEMBER_HANDOFF",
+          "story_revision": 8,
+          "story_language": "en",
+          "story_set_number": 1,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "A1.2.a",
+          "session_cefr_level_section": "A1.2.a",
+          "session_cefr_level": "A1"
+        }
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-ADAPTATION-FROM-en-es-love-letterMID_NOVEMBER_HANDOFF",
+        "isMultipart": false,
+        "title": "رسالة حب",
+        "subtitle": "+١٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 18,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/4ba2733ddb8bdc3f0924c6463da01f5d1eccaf40.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/f43759d8783689442f0ed8d80faa877595e215f9.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/0cf27482ca5a9aac7d7a35199a257c3c4e953a95.svg"
+        },
+        "colors": {
+          "activeLip": "6b42b0",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 18
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-ADAPTATION-FROM-en-es-love-letterMID_NOVEMBER_HANDOFF",
+          "story_revision": 9,
+          "story_language": "en",
+          "story_set_number": 1,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "A1.2.b",
+          "session_cefr_level_section": "A1.2.b",
+          "session_cefr_level": "A1"
+        }
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-ADAPTATION-FROM-en-es-vikram-s-plantsMID_NOVEMBER_HANDOFF",
+        "isMultipart": false,
+        "title": "نباتات فيكرام",
+        "subtitle": "+١٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 18,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/c3349839a5c44c2f209b5fc0993e4567e294246a.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/1420a75c99089bb6d8c75922c6b1f98b4e0a7a52.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/831ad3478f4aafb8e4d29726c6f82ef81dec35cb.svg"
+        },
+        "colors": {
+          "activeLip": "6b42b0",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 18
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-ADAPTATION-FROM-en-es-vikram-s-plantsMID_NOVEMBER_HANDOFF",
+          "story_revision": 9,
+          "story_language": "en",
+          "story_set_number": 2,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "A1.2.b",
+          "session_cefr_level_section": "A1.2.b",
+          "session_cefr_level": "A1"
+        }
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-ADAPTATION-FROM-en-es-the-cakeMID_NOVEMBER_HANDOFF",
+        "isMultipart": false,
+        "title": "الكعكة",
+        "subtitle": "+١٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 18,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/4a31a2e8269bfd907d862c44a3b320899c169419.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/04b7d35a93a98bff7f8f737fd986426db950ebb4.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/f8f235163f0a79a2d7c3a2fb3139b7161ac4c873.svg"
+        },
+        "colors": {
+          "activeLip": "d94545",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 18
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-ADAPTATION-FROM-en-es-the-cakeMID_NOVEMBER_HANDOFF",
+          "story_revision": 7,
+          "story_language": "en",
+          "story_set_number": 2,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "A1.2.b",
+          "session_cefr_level_section": "A1.2.b",
+          "session_cefr_level": "A1"
+        }
+      }
+    ],
+    [
+      {
+        "isVideo": false,
+        "id": "en-ar-i-love-your-haircut",
+        "isMultipart": false,
+        "title": "أُحب قصة شعرك",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/4cd3b26d7cc23dce02dcb78364dc83c5a012cbd7.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/9b00875fe88cd8f31728cb8311ae85e3408fac3d.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/c87c45760ff1d175e7e17b5a9dabff6a6da1edca.svg"
+        },
+        "colors": {
+          "activeLip": "f08200",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-i-love-your-haircut",
+          "story_revision": 21,
+          "story_language": "en",
+          "story_set_number": 2,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B1.1",
+          "session_cefr_level_section": "B1.1",
+          "session_cefr_level": "B1"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-new-jeans",
+        "isMultipart": false,
+        "title": "بنطال الجينز جديد",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/f626ff0ffb04c43f1e356ecce52d30f0b07af892.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/93f63b0da74725a9b9d0bf59f284857d2c16f131.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/82918e7e06cd27122a66581be8a5c0b07097a3a0.svg"
+        },
+        "colors": {
+          "activeLip": "6d42b0",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-new-jeans",
+          "story_revision": 16,
+          "story_language": "en",
+          "story_set_number": 2,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B1.1",
+          "session_cefr_level_section": "B1.1",
+          "session_cefr_level": "B1"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-new-roommate-v2",
+        "isMultipart": false,
+        "title": "زميلة السكن الجديدة",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/01ad2f6fead363d9258efd96f3a6dc40d585b715.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/dd4ff9e401e3290add7dcffad831745e6a9fce32.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/b076008c7acb0acc804afe0835bea50d7eefd652.svg"
+        },
+        "colors": {
+          "activeLip": "d94545",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-new-roommate-v2",
+          "story_revision": 13,
+          "story_language": "en",
+          "story_set_number": 2,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B1.1",
+          "session_cefr_level_section": "B1.1",
+          "session_cefr_level": "B1"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-the-baby-photo",
+        "isMultipart": false,
+        "title": "صورة الطفولة",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/608435f5b2c3eaa0011590abf47e1ae92b8138bf.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/9f865aa22091a1f0edb696c5b60a82927734ca39.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/1131c4de7e32bf6496f5b322646ec235b0a3306d.svg"
+        },
+        "colors": {
+          "activeLip": "d94545",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-the-baby-photo",
+          "story_revision": 29,
+          "story_language": "en",
+          "story_set_number": 2,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B1.2",
+          "session_cefr_level_section": "B1.2",
+          "session_cefr_level": "B1"
+        },
+        "storyType": "radio-play"
+      }
+    ],
+    [
+      {
+        "isVideo": false,
+        "id": "en-ar-moving",
+        "isMultipart": false,
+        "title": "الانتقال",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/1207e92b451e858adc8163cb73cf6bafb190fdae.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/60415a859a28fce83e3f44fa09ee22aea6683c79.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/0485619cefbf4c9f1919e5cf2315391bf26bc0e5.svg"
+        },
+        "colors": {
+          "activeLip": "0086c6",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-moving",
+          "story_revision": 27,
+          "story_language": "en",
+          "story_set_number": 2,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B1.2",
+          "session_cefr_level_section": "B1.2",
+          "session_cefr_level": "B1"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-the-bride",
+        "isMultipart": false,
+        "title": "العروس",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/42af81d0ee31fb44d4d5d3162de9e7d3b8765153.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/775381f7ab58701fe3aebc4cc4a38f3d64c51757.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/ee283109b4662010d4e7e05f7fe673846059eb51.svg"
+        },
+        "colors": {
+          "activeLip": "0086c6",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-the-bride",
+          "story_revision": 37,
+          "story_language": "en",
+          "story_set_number": 2,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B1.2",
+          "session_cefr_level_section": "B1.2",
+          "session_cefr_level": "B1"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-sorry-i-m-late",
+        "isMultipart": false,
+        "title": "أعتذر عن تأخري",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/8124db018f889ac2f6d24ac1f370242dbb0ad65e.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/6ac622438d38582c2ecc18c40e3bd08dbbdd34ee.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/0c6bc489b2540263699db12d4a39beca8c283a7a.svg"
+        },
+        "colors": {
+          "activeLip": "0086c6",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-sorry-i-m-late",
+          "story_revision": 22,
+          "story_language": "en",
+          "story_set_number": 2,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B1.3",
+          "session_cefr_level_section": "B1.3",
+          "session_cefr_level": "B1"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-nice-tie",
+        "isMultipart": false,
+        "title": "ربطة العنق الجميلة",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/d21c68e3211da19a42de21a0fe19156e7c76dcd3.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/4288e384a24f7b6b324c1cddb3850f5b93aaf6b7.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/63e419c2a8b2ccadcdd3b41329f5e3ed39af815d.svg"
+        },
+        "colors": {
+          "activeLip": "6d42b0",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-nice-tie",
+          "story_revision": 41,
+          "story_language": "en",
+          "story_set_number": 2,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B1.3",
+          "session_cefr_level_section": "B1.3",
+          "session_cefr_level": "B1"
+        },
+        "storyType": "radio-play"
+      }
+    ],
+    [
+      {
+        "isVideo": false,
+        "id": "en-ar-the-accident",
+        "isMultipart": false,
+        "title": "الحادث",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/c6d90731fde97538d6f34f72c53719c8043ae7f5.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/85a8e445179256e8f3ef66800c1133f003ca88fb.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/ca855c89e53515b5b45bde8735e93180b4fb4f95.svg"
+        },
+        "colors": {
+          "activeLip": "9a4fcb",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-the-accident",
+          "story_revision": 29,
+          "story_language": "en",
+          "story_set_number": 3,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B1.3",
+          "session_cefr_level_section": "B1.3",
+          "session_cefr_level": "B1"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-eddy-s-night-out",
+        "isMultipart": false,
+        "title": "ليلة إيدي",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/9e5ecd5a83d9fd09c43c35856fe4648b0b266256.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/54c7235c9bfaadd65edd3d671c289cb031b83a99.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/d03333dcdbf7d1e7d53d018c8c10684456f4984b.svg"
+        },
+        "colors": {
+          "activeLip": "0086c6",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-eddy-s-night-out",
+          "story_revision": 60,
+          "story_language": "en",
+          "story_set_number": 3,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B1.4",
+          "session_cefr_level_section": "B1.4",
+          "session_cefr_level": "B1"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-checking-in",
+        "isMultipart": false,
+        "title": "تسجيل الوصول",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/9f380dfcb188f1cb4c193d35837640e1481bd5e4.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/ea32306b8bd2ce661953eb3904104e5aa3f757e1.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/54f99f054e02aaf5d794bbdc8e2a22cf1aa08251.svg"
+        },
+        "colors": {
+          "activeLip": "6b42b0",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-checking-in",
+          "story_revision": 51,
+          "story_language": "en",
+          "story_set_number": 3,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B1.4",
+          "session_cefr_level_section": "B1.4",
+          "session_cefr_level": "B1"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-bad-at-soccer",
+        "isMultipart": false,
+        "title": "سيء في كرة القدم",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/6123e90bc350e883b594dd3ea99b319c7cca0b3c.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/dc1efa959de5fdf54aa9bda70628abf0dfe0fea8.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/8e30e8ea6b75bcf397196207acb7d294484fee6d.svg"
+        },
+        "colors": {
+          "activeLip": "0086c6",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-bad-at-soccer",
+          "story_revision": 40,
+          "story_language": "en",
+          "story_set_number": 3,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B1.4",
+          "session_cefr_level_section": "B1.4",
+          "session_cefr_level": "B1"
+        },
+        "storyType": "radio-play"
+      }
+    ],
+    [
+      {
+        "isVideo": false,
+        "id": "en-ar-my-money-my-rules",
+        "isMultipart": false,
+        "title": "نقودي، قواعدي",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/db8d43ab8d04615932180675d615b82658bad8d6.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/04b1a00d14f9d0d9c37e42ca38099b35007bff67.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/05fe8ed33c4ddd63eae2a7868ef3155f160de585.svg"
+        },
+        "colors": {
+          "activeLip": "6d42b0",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-my-money-my-rules",
+          "story_revision": 58,
+          "story_language": "en",
+          "story_set_number": 3,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B2.1",
+          "session_cefr_level_section": "B2.1",
+          "session_cefr_level": "B2"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-eddy-s-chores",
+        "isMultipart": false,
+        "title": "أعمال إيدي المنزلية",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/0fa6e633830acd9247f91b45494346d1bc3e1a29.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/c163f3808674de7dc883247c1f0aedaaf5e54e34.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/09bbfe97e4c95780e84c623a44e0e74ba442b503.svg"
+        },
+        "colors": {
+          "activeLip": "48a900",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-eddy-s-chores",
+          "story_revision": 43,
+          "story_language": "en",
+          "story_set_number": 3,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B2.1",
+          "session_cefr_level_section": "B2.1",
+          "session_cefr_level": "B2"
+        },
+        "storyType": "informational"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-a-real-prince",
+        "isMultipart": false,
+        "title": "أمير حقيقي",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/25224cca6e316306fb0cb47d09ad587c1db0306d.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/4c762f6acaa6a3d549c345b4db5017565daed196.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/a46e655947baef8554bf981db83264d0a8b08ce0.svg"
+        },
+        "colors": {
+          "activeLip": "1c5eb1",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-a-real-prince",
+          "story_revision": 64,
+          "story_language": "en",
+          "story_set_number": 3,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B2.1",
+          "session_cefr_level_section": "B2.1",
+          "session_cefr_level": "B2"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-junior-the-teenager",
+        "isMultipart": false,
+        "title": "جونيور يكون مُراهِقًا",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/3b910260da80024beeca034e6c402a6afb9edd0c.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/60b37e374ad34f3c4aa10896b466eb938f25d7fb.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/6aa07e93ca14fd52fa199a68fb24f1c87194f1ba.svg"
+        },
+        "colors": {
+          "activeLip": "5d9a00",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-junior-the-teenager",
+          "story_revision": 39,
+          "story_language": "en",
+          "story_set_number": 3,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B2.2",
+          "session_cefr_level_section": "B2.2",
+          "session_cefr_level": "B2"
+        },
+        "storyType": "informational"
+      }
+    ],
+    [
+      {
+        "isVideo": false,
+        "id": "en-ar-baby-bird",
+        "isMultipart": false,
+        "title": "صغير الطير",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/c74e1d0cd097faecad4ef9199fdc48638a566093.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/efbe3246676d6d2633bc44c60e4ba255db752675.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/7a968edda0fff30b456c448e5cc000172e97e832.svg"
+        },
+        "colors": {
+          "activeLip": "0086c6",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-baby-bird",
+          "story_revision": 60,
+          "story_language": "en",
+          "story_set_number": 3,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B2.2",
+          "session_cefr_level_section": "B2.2",
+          "session_cefr_level": "B2"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-lily-the-interpreter",
+        "isMultipart": false,
+        "title": "ليلي المُترجمة الفورية",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/0f4d7fa122438e1f46f6afc2ac312b3a5ef98689.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/b218c8609434308eb96128a3467677f6b33dea5e.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/3a1301e3e533be7bb9f3e25cdfc993b7020f702a.svg"
+        },
+        "colors": {
+          "activeLip": "0086c6",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-lily-the-interpreter",
+          "story_revision": 55,
+          "story_language": "en",
+          "story_set_number": 3,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B2.2",
+          "session_cefr_level_section": "B2.2",
+          "session_cefr_level": "B2"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-neighborhood-threat",
+        "isMultipart": false,
+        "title": "تهديد الحي",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/166cf2ad1f53fc426c75461bf90ac408f9014bf2.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/31bdc260a325ac3d2f0aad326679978d5e81960d.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/63b18c72abb621ac3785d3c640abf000823537e5.svg"
+        },
+        "colors": {
+          "activeLip": "0086c6",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-neighborhood-threat",
+          "story_revision": 40,
+          "story_language": "en",
+          "story_set_number": 4,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B2.2",
+          "session_cefr_level_section": "B2.2",
+          "session_cefr_level": "B2"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-thanks-for-the-bike",
+        "isMultipart": false,
+        "title": "شكرًا على الدرّاجة",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/28a131542f7a3aca6382db5b2cdcb6f680a3ccf6.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/853220ca5e455839211e1876db66739c75bb74b4.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/9e329f754dd612085c457067490529ef2e31a04b.svg"
+        },
+        "colors": {
+          "activeLip": "874e30",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-thanks-for-the-bike",
+          "story_revision": 43,
+          "story_language": "en",
+          "story_set_number": 4,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B2.3",
+          "session_cefr_level_section": "B2.3",
+          "session_cefr_level": "B2"
+        },
+        "storyType": "informational"
+      }
+    ],
+    [
+      {
+        "isVideo": false,
+        "id": "en-ar-you-can-t-rush-art",
+        "isMultipart": false,
+        "title": "لا يمكنك استعجال الفن",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/99e3e9526f94a4638c444d37d90dfe9894b73702.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/ec87b87ae428134c9c30303bcb21108ef265affa.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/eb524789e333179a095132fcf26b40a74a476f01.svg"
+        },
+        "colors": {
+          "activeLip": "df6eb3",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-you-can-t-rush-art",
+          "story_revision": 63,
+          "story_language": "en",
+          "story_set_number": 4,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B2.3",
+          "session_cefr_level_section": "B2.3",
+          "session_cefr_level": "B2"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-year-in-review",
+        "isMultipart": false,
+        "title": "مراجعة السنة",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/d532f575c5027515e1ac485ca83da7db9fe8f7c2.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/0dc031b7cf59329761dc2271a3a871fc2473f23a.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/c5f8b61381c61c43bbe57d721e53001013d0f00f.svg"
+        },
+        "colors": {
+          "activeLip": "874e30",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-year-in-review",
+          "story_revision": 45,
+          "story_language": "en",
+          "story_set_number": 4,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B2.4",
+          "session_cefr_level_section": "B2.4",
+          "session_cefr_level": "B2"
+        },
+        "storyType": "informational"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-cousin-lou",
+        "isMultipart": false,
+        "title": "ابن خالتي لو",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/bf0bf45aa8d6b7236a243d8f30529e2f5f01e5ba.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/72a15302e27b2817d706f6899e4dc755a1c42a91.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/50fb1f9ef8f9968e086f218113e2b4c6fab5b879.svg"
+        },
+        "colors": {
+          "activeLip": "0086c6",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-cousin-lou",
+          "story_revision": 48,
+          "story_language": "en",
+          "story_set_number": 4,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B2.4",
+          "session_cefr_level_section": "B2.4",
+          "session_cefr_level": "B2"
+        },
+        "storyType": "radio-play"
+      },
+      {
+        "isVideo": false,
+        "id": "en-ar-art-camp",
+        "isMultipart": false,
+        "title": "مخيم الفن",
+        "subtitle": "+٢٨XP",
+        "state": "ACTIVE",
+        "currentMode": "READ",
+        "eligibleModes": [
+          "READ",
+          "CONVERSATION",
+          "LISTEN"
+        ],
+        "xpToAward": 28,
+        "illustrationUrls": {
+          "active": "https://stories-cdn.duolingo.com/image/07eed52fa161bfd4278259f3f3c9855dc08a68da.svg",
+          "gilded": "https://stories-cdn.duolingo.com/image/115eb8e65508a4591e2d4add94f241aad1768974.svg",
+          "locked": "https://stories-cdn.duolingo.com/image/cbda0e18dfa3fb2ddbd34c61292c9968eb9aeb6a.svg"
+        },
+        "colors": {
+          "activeLip": "1cb0f6",
+          "gildedLip": "ffb100"
+        },
+        "setLocked": false,
+        "completed": false,
+        "selectablePopoverModesWithXP": {
+          "READ": 28
+        },
+        "trackingProperties": {
+          "story_id": "en-ar-art-camp",
+          "story_revision": 49,
+          "story_language": "en",
+          "story_set_number": 4,
+          "already_completed": false,
+          "locked": false,
+          "multipart": false,
+          "cefr_level": "B2.4",
+          "session_cefr_level_section": "B2.4",
+          "session_cefr_level": "B2"
+        },
+        "storyType": "radio-play"
+      }
+    ]
+  ],
+  "crownGating": {
+    "0": 10,
+    "1": 15,
+    "2": 20,
+    "3": 25,
+    "4": 30,
+    "5": 35,
+    "6": 40,
+    "7": 45,
+    "8": 50
+  },
+  "newStoryIds": [],
+  "hasLevelsExperience": true
+}

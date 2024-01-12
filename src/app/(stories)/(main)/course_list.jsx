@@ -5,6 +5,7 @@ import LanguageButton from "./language_button";
 
 import styles from "./course_list.module.css";
 import Link from "next/link";
+import {getStories} from "../../../../import_tools/greasmonkey"
 
 async function get_courses(tag) {
   let courses;
@@ -91,7 +92,7 @@ async function CourseListInner({ loading, tag }) {
   let { grouped_languages: courses, incubator } = await get_courses(
     tag ? tag : "main",
   );
-
+console.log(courses);
   incubator.sort((a, b) => b.count - a.count);
 
   return (
