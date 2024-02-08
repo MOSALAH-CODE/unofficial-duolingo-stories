@@ -64,13 +64,22 @@ export default function useAudio(element, progress) {
 
   if (audio === undefined || !audio?.keypoints || !audio?.url)
     return [audioRange, undefined, ref, undefined];
-
+    const updatedUrl = audio.url.replace('audio/', '');
+    audio.url = updatedUrl;
   return [
     audioRange,
     playAudio,
     ref,
     audio.url.startsWith("blob")
       ? audio.url
-      : "https://duostori.uber.space/" + audio.url,
+      : "https://arabee.s3.eu-central-1.amazonaws.com/temp/story_test/" + updatedUrl,
   ];
+  // return [
+  //   audioRange,
+  //   playAudio,
+  //   ref,
+  //   audio.url.startsWith("blob")
+  //     ? audio.url
+  //     : "https://duostori.uber.space/" + audio.url,
+  // ];
 }

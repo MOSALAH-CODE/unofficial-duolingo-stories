@@ -232,10 +232,10 @@ export function generate_ssml_line(
      */
 
   ssml = {
-    ...ssml,
-    text: speak_text.text,
-    mapping: speak_text.mapping,
-    speaker: speaker,
+    // ...ssml,
+    // text: speak_text.text,
+    // mapping: speak_text.mapping,
+    // speaker: speaker,
   };
   return ssml;
 }
